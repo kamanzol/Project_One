@@ -1,3 +1,6 @@
+#Config for any API Keys
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
