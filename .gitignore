@@ -1,6 +1,9 @@
 #Config for any API Keys
 config.py
 
+#Adding whatever this is 
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
