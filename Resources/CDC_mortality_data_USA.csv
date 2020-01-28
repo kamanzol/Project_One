@@ -1,0 +1,1337 @@
+Census Region,Census Region Code,Year,Year Code,ICD Chapter,ICD Chapter Code,Deaths,Population,Crude Rate
+Census Region 1: Northeast,CENS-R1,1999,1999,Certain infectious and parasitic diseases,A00-B99,15287,53343775,28.7
+Census Region 1: Northeast,CENS-R1,1999,1999,Neoplasms,C00-D48,119170,53343775,223.4
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1932,53343775,3.6
+Census Region 1: Northeast,CENS-R1,1999,1999,"Endocrine, nutritional and metabolic diseases",E00-E88,17981,53343775,33.7
+Census Region 1: Northeast,CENS-R1,1999,1999,Mental and behavioural disorders,F01-F99,7574,53343775,14.2
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the nervous system,G00-G98,14678,53343775,27.5
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the ear and mastoid process,H60-H93,15,53343775,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the circulatory system,I00-I99,200208,53343775,375.3
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the respiratory system,J00-J98,46254,53343775,86.7
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the digestive system,K00-K92,16276,53343775,30.5
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the skin and subcutaneous tissue,L00-L98,726,53343775,1.4
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the musculoskeletal system and connective tissue,M00-M99,2319,53343775,4.3
+Census Region 1: Northeast,CENS-R1,1999,1999,Diseases of the genitourinary system,N00-N98,11594,53343775,21.7
+Census Region 1: Northeast,CENS-R1,1999,1999,"Pregnancy, childbirth and the puerperium",O00-O99,61,53343775,0.1
+Census Region 1: Northeast,CENS-R1,1999,1999,Certain conditions originating in the perinatal period,P00-P96,2536,53343775,4.8
+Census Region 1: Northeast,CENS-R1,1999,1999,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1580,53343775,3
+Census Region 1: Northeast,CENS-R1,1999,1999,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4600,53343775,8.6
+Census Region 1: Northeast,CENS-R1,1999,1999,External causes of morbidity and mortality,V01-Y89,23177,53343775,43.4
+Census Region 1: Northeast,CENS-R1,2000,2000,Certain infectious and parasitic diseases,A00-B99,14989,53594378,28
+Census Region 1: Northeast,CENS-R1,2000,2000,Neoplasms,C00-D48,118697,53594378,221.5
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2030,53594378,3.8
+Census Region 1: Northeast,CENS-R1,2000,2000,"Endocrine, nutritional and metabolic diseases",E00-E88,18329,53594378,34.2
+Census Region 1: Northeast,CENS-R1,2000,2000,Mental and behavioural disorders,F01-F99,8309,53594378,15.5
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the nervous system,G00-G98,16379,53594378,30.6
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the circulatory system,I00-I99,198287,53594378,370
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the respiratory system,J00-J98,46407,53594378,86.6
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the digestive system,K00-K92,16293,53594378,30.4
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the skin and subcutaneous tissue,L00-L98,767,53594378,1.4
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the musculoskeletal system and connective tissue,M00-M99,2305,53594378,4.3
+Census Region 1: Northeast,CENS-R1,2000,2000,Diseases of the genitourinary system,N00-N98,12049,53594378,22.5
+Census Region 1: Northeast,CENS-R1,2000,2000,"Pregnancy, childbirth and the puerperium",O00-O99,53,53594378,0.1
+Census Region 1: Northeast,CENS-R1,2000,2000,Certain conditions originating in the perinatal period,P00-P96,2429,53594378,4.5
+Census Region 1: Northeast,CENS-R1,2000,2000,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1630,53594378,3
+Census Region 1: Northeast,CENS-R1,2000,2000,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6091,53594378,11.4
+Census Region 1: Northeast,CENS-R1,2000,2000,External causes of morbidity and mortality,V01-Y89,22772,53594378,42.5
+Census Region 1: Northeast,CENS-R1,2001,2001,Certain infectious and parasitic diseases,A00-B99,15201,53915522,28.2
+Census Region 1: Northeast,CENS-R1,2001,2001,Neoplasms,C00-D48,117908,53915522,218.7
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2005,53915522,3.7
+Census Region 1: Northeast,CENS-R1,2001,2001,"Endocrine, nutritional and metabolic diseases",E00-E88,18466,53915522,34.2
+Census Region 1: Northeast,CENS-R1,2001,2001,Mental and behavioural disorders,F01-F99,9587,53915522,17.8
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the nervous system,G00-G98,17229,53915522,32
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the ear and mastoid process,H60-H93,11,53915522,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the circulatory system,I00-I99,193616,53915522,359.1
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the respiratory system,J00-J98,45088,53915522,83.6
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the digestive system,K00-K92,16703,53915522,31
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the skin and subcutaneous tissue,L00-L98,811,53915522,1.5
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the musculoskeletal system and connective tissue,M00-M99,2453,53915522,4.5
+Census Region 1: Northeast,CENS-R1,2001,2001,Diseases of the genitourinary system,N00-N98,12336,53915522,22.9
+Census Region 1: Northeast,CENS-R1,2001,2001,"Pregnancy, childbirth and the puerperium",O00-O99,72,53915522,0.1
+Census Region 1: Northeast,CENS-R1,2001,2001,Certain conditions originating in the perinatal period,P00-P96,2364,53915522,4.4
+Census Region 1: Northeast,CENS-R1,2001,2001,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1534,53915522,2.8
+Census Region 1: Northeast,CENS-R1,2001,2001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5288,53915522,9.8
+Census Region 1: Northeast,CENS-R1,2001,2001,Codes for special purposes,U00-U99,2669,53915522,5
+Census Region 1: Northeast,CENS-R1,2001,2001,External causes of morbidity and mortality,V01-Y89,24371,53915522,45.2
+Census Region 1: Northeast,CENS-R1,2002,2002,Certain infectious and parasitic diseases,A00-B99,15426,54143915,28.5
+Census Region 1: Northeast,CENS-R1,2002,2002,Neoplasms,C00-D48,117578,54143915,217.2
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2057,54143915,3.8
+Census Region 1: Northeast,CENS-R1,2002,2002,"Endocrine, nutritional and metabolic diseases",E00-E88,18451,54143915,34.1
+Census Region 1: Northeast,CENS-R1,2002,2002,Mental and behavioural disorders,F01-F99,10369,54143915,19.2
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the nervous system,G00-G98,17910,54143915,33.1
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the circulatory system,I00-I99,191959,54143915,354.5
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the respiratory system,J00-J98,46028,54143915,85
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the digestive system,K00-K92,16510,54143915,30.5
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the skin and subcutaneous tissue,L00-L98,727,54143915,1.3
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the musculoskeletal system and connective tissue,M00-M99,2387,54143915,4.4
+Census Region 1: Northeast,CENS-R1,2002,2002,Diseases of the genitourinary system,N00-N98,12930,54143915,23.9
+Census Region 1: Northeast,CENS-R1,2002,2002,"Pregnancy, childbirth and the puerperium",O00-O99,49,54143915,0.1
+Census Region 1: Northeast,CENS-R1,2002,2002,Certain conditions originating in the perinatal period,P00-P96,2448,54143915,4.5
+Census Region 1: Northeast,CENS-R1,2002,2002,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1635,54143915,3
+Census Region 1: Northeast,CENS-R1,2002,2002,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6474,54143915,12
+Census Region 1: Northeast,CENS-R1,2002,2002,External causes of morbidity and mortality,V01-Y89,24315,54143915,44.9
+Census Region 1: Northeast,CENS-R1,2003,2003,Certain infectious and parasitic diseases,A00-B99,15085,54334453,27.8
+Census Region 1: Northeast,CENS-R1,2003,2003,Neoplasms,C00-D48,116653,54334453,214.7
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1989,54334453,3.7
+Census Region 1: Northeast,CENS-R1,2003,2003,"Endocrine, nutritional and metabolic diseases",E00-E88,18855,54334453,34.7
+Census Region 1: Northeast,CENS-R1,2003,2003,Mental and behavioural disorders,F01-F99,11259,54334453,20.7
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the nervous system,G00-G98,18173,54334453,33.4
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the ear and mastoid process,H60-H93,11,54334453,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the circulatory system,I00-I99,187444,54334453,345
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the respiratory system,J00-J98,45401,54334453,83.6
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the digestive system,K00-K92,16660,54334453,30.7
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the skin and subcutaneous tissue,L00-L98,821,54334453,1.5
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the musculoskeletal system and connective tissue,M00-M99,2463,54334453,4.5
+Census Region 1: Northeast,CENS-R1,2003,2003,Diseases of the genitourinary system,N00-N98,12959,54334453,23.9
+Census Region 1: Northeast,CENS-R1,2003,2003,"Pregnancy, childbirth and the puerperium",O00-O99,96,54334453,0.2
+Census Region 1: Northeast,CENS-R1,2003,2003,Certain conditions originating in the perinatal period,P00-P96,2414,54334453,4.4
+Census Region 1: Northeast,CENS-R1,2003,2003,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1577,54334453,2.9
+Census Region 1: Northeast,CENS-R1,2003,2003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6102,54334453,11.2
+Census Region 1: Northeast,CENS-R1,2003,2003,External causes of morbidity and mortality,V01-Y89,24692,54334453,45.4
+Census Region 1: Northeast,CENS-R1,2004,2004,Certain infectious and parasitic diseases,A00-B99,15331,54423533,28.2
+Census Region 1: Northeast,CENS-R1,2004,2004,Neoplasms,C00-D48,115399,54423533,212
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1964,54423533,3.6
+Census Region 1: Northeast,CENS-R1,2004,2004,"Endocrine, nutritional and metabolic diseases",E00-E88,18330,54423533,33.7
+Census Region 1: Northeast,CENS-R1,2004,2004,Mental and behavioural disorders,F01-F99,11808,54423533,21.7
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the nervous system,G00-G98,18891,54423533,34.7
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the ear and mastoid process,H60-H93,15,54423533,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the circulatory system,I00-I99,178339,54423533,327.7
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the respiratory system,J00-J98,45233,54423533,83.1
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the digestive system,K00-K92,16173,54423533,29.7
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the skin and subcutaneous tissue,L00-L98,828,54423533,1.5
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the musculoskeletal system and connective tissue,M00-M99,2397,54423533,4.4
+Census Region 1: Northeast,CENS-R1,2004,2004,Diseases of the genitourinary system,N00-N98,13089,54423533,24.1
+Census Region 1: Northeast,CENS-R1,2004,2004,"Pregnancy, childbirth and the puerperium",O00-O99,138,54423533,0.3
+Census Region 1: Northeast,CENS-R1,2004,2004,Certain conditions originating in the perinatal period,P00-P96,2348,54423533,4.3
+Census Region 1: Northeast,CENS-R1,2004,2004,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1525,54423533,2.8
+Census Region 1: Northeast,CENS-R1,2004,2004,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6586,54423533,12.1
+Census Region 1: Northeast,CENS-R1,2004,2004,External causes of morbidity and mortality,V01-Y89,24435,54423533,44.9
+Census Region 1: Northeast,CENS-R1,2005,2005,Certain infectious and parasitic diseases,A00-B99,15643,54451230,28.7
+Census Region 1: Northeast,CENS-R1,2005,2005,Neoplasms,C00-D48,114704,54451230,210.7
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1990,54451230,3.7
+Census Region 1: Northeast,CENS-R1,2005,2005,"Endocrine, nutritional and metabolic diseases",E00-E88,18673,54451230,34.3
+Census Region 1: Northeast,CENS-R1,2005,2005,Mental and behavioural disorders,F01-F99,13693,54451230,25.1
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the nervous system,G00-G98,19914,54451230,36.6
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the circulatory system,I00-I99,175731,54451230,322.7
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the respiratory system,J00-J98,46169,54451230,84.8
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the digestive system,K00-K92,16180,54451230,29.7
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the skin and subcutaneous tissue,L00-L98,844,54451230,1.6
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the musculoskeletal system and connective tissue,M00-M99,2382,54451230,4.4
+Census Region 1: Northeast,CENS-R1,2005,2005,Diseases of the genitourinary system,N00-N98,13364,54451230,24.5
+Census Region 1: Northeast,CENS-R1,2005,2005,"Pregnancy, childbirth and the puerperium",O00-O99,112,54451230,0.2
+Census Region 1: Northeast,CENS-R1,2005,2005,Certain conditions originating in the perinatal period,P00-P96,2278,54451230,4.2
+Census Region 1: Northeast,CENS-R1,2005,2005,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1514,54451230,2.8
+Census Region 1: Northeast,CENS-R1,2005,2005,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6862,54451230,12.6
+Census Region 1: Northeast,CENS-R1,2005,2005,External causes of morbidity and mortality,V01-Y89,25334,54451230,46.5
+Census Region 1: Northeast,CENS-R1,2006,2006,Certain infectious and parasitic diseases,A00-B99,15410,54522659,28.3
+Census Region 1: Northeast,CENS-R1,2006,2006,Neoplasms,C00-D48,114032,54522659,209.1
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1748,54522659,3.2
+Census Region 1: Northeast,CENS-R1,2006,2006,"Endocrine, nutritional and metabolic diseases",E00-E88,17625,54522659,32.3
+Census Region 1: Northeast,CENS-R1,2006,2006,Mental and behavioural disorders,F01-F99,17384,54522659,31.9
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the nervous system,G00-G98,19582,54522659,35.9
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the circulatory system,I00-I99,167570,54522659,307.3
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the respiratory system,J00-J98,42437,54522659,77.8
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the digestive system,K00-K92,15932,54522659,29.2
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the skin and subcutaneous tissue,L00-L98,733,54522659,1.3
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the musculoskeletal system and connective tissue,M00-M99,2305,54522659,4.2
+Census Region 1: Northeast,CENS-R1,2006,2006,Diseases of the genitourinary system,N00-N98,13308,54522659,24.4
+Census Region 1: Northeast,CENS-R1,2006,2006,"Pregnancy, childbirth and the puerperium",O00-O99,144,54522659,0.3
+Census Region 1: Northeast,CENS-R1,2006,2006,Certain conditions originating in the perinatal period,P00-P96,2364,54522659,4.3
+Census Region 1: Northeast,CENS-R1,2006,2006,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1463,54522659,2.7
+Census Region 1: Northeast,CENS-R1,2006,2006,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5805,54522659,10.6
+Census Region 1: Northeast,CENS-R1,2006,2006,External causes of morbidity and mortality,V01-Y89,26646,54522659,48.9
+Census Region 1: Northeast,CENS-R1,2007,2007,Certain infectious and parasitic diseases,A00-B99,15161,54653362,27.7
+Census Region 1: Northeast,CENS-R1,2007,2007,Neoplasms,C00-D48,113515,54653362,207.7
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1911,54653362,3.5
+Census Region 1: Northeast,CENS-R1,2007,2007,"Endocrine, nutritional and metabolic diseases",E00-E88,17510,54653362,32
+Census Region 1: Northeast,CENS-R1,2007,2007,Mental and behavioural disorders,F01-F99,17685,54653362,32.4
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the nervous system,G00-G98,20511,54653362,37.5
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the circulatory system,I00-I99,164113,54653362,300.3
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the respiratory system,J00-J98,42238,54653362,77.3
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the digestive system,K00-K92,16282,54653362,29.8
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the skin and subcutaneous tissue,L00-L98,775,54653362,1.4
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the musculoskeletal system and connective tissue,M00-M99,2302,54653362,4.2
+Census Region 1: Northeast,CENS-R1,2007,2007,Diseases of the genitourinary system,N00-N98,13249,54653362,24.2
+Census Region 1: Northeast,CENS-R1,2007,2007,"Pregnancy, childbirth and the puerperium",O00-O99,143,54653362,0.3
+Census Region 1: Northeast,CENS-R1,2007,2007,Certain conditions originating in the perinatal period,P00-P96,2301,54653362,4.2
+Census Region 1: Northeast,CENS-R1,2007,2007,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1447,54653362,2.6
+Census Region 1: Northeast,CENS-R1,2007,2007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5726,54653362,10.5
+Census Region 1: Northeast,CENS-R1,2007,2007,External causes of morbidity and mortality,V01-Y89,26826,54653362,49.1
+Census Region 1: Northeast,CENS-R1,2008,2008,Certain infectious and parasitic diseases,A00-B99,15108,54875926,27.5
+Census Region 1: Northeast,CENS-R1,2008,2008,Neoplasms,C00-D48,113054,54875926,206
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1934,54875926,3.5
+Census Region 1: Northeast,CENS-R1,2008,2008,"Endocrine, nutritional and metabolic diseases",E00-E88,17214,54875926,31.4
+Census Region 1: Northeast,CENS-R1,2008,2008,Mental and behavioural disorders,F01-F99,19981,54875926,36.4
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the nervous system,G00-G98,21591,54875926,39.3
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the eye and adnexa,H00-H57,10,54875926,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the ear and mastoid process,H60-H93,10,54875926,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the circulatory system,I00-I99,163828,54875926,298.5
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the respiratory system,J00-J98,44726,54875926,81.5
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the digestive system,K00-K92,16260,54875926,29.6
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the skin and subcutaneous tissue,L00-L98,789,54875926,1.4
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the musculoskeletal system and connective tissue,M00-M99,2314,54875926,4.2
+Census Region 1: Northeast,CENS-R1,2008,2008,Diseases of the genitourinary system,N00-N98,12868,54875926,23.4
+Census Region 1: Northeast,CENS-R1,2008,2008,"Pregnancy, childbirth and the puerperium",O00-O99,146,54875926,0.3
+Census Region 1: Northeast,CENS-R1,2008,2008,Certain conditions originating in the perinatal period,P00-P96,2211,54875926,4
+Census Region 1: Northeast,CENS-R1,2008,2008,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1512,54875926,2.8
+Census Region 1: Northeast,CENS-R1,2008,2008,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5685,54875926,10.4
+Census Region 1: Northeast,CENS-R1,2008,2008,External causes of morbidity and mortality,V01-Y89,27015,54875926,49.2
+Census Region 1: Northeast,CENS-R1,2009,2009,Certain infectious and parasitic diseases,A00-B99,14949,55133101,27.1
+Census Region 1: Northeast,CENS-R1,2009,2009,Neoplasms,C00-D48,112659,55133101,204.3
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1836,55133101,3.3
+Census Region 1: Northeast,CENS-R1,2009,2009,"Endocrine, nutritional and metabolic diseases",E00-E88,16941,55133101,30.7
+Census Region 1: Northeast,CENS-R1,2009,2009,Mental and behavioural disorders,F01-F99,20588,55133101,37.3
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the nervous system,G00-G98,21302,55133101,38.6
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the eye and adnexa,H00-H57,10,55133101,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the ear and mastoid process,H60-H93,12,55133101,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the circulatory system,I00-I99,157968,55133101,286.5
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the respiratory system,J00-J98,43336,55133101,78.6
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the digestive system,K00-K92,15824,55133101,28.7
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the skin and subcutaneous tissue,L00-L98,796,55133101,1.4
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the musculoskeletal system and connective tissue,M00-M99,2153,55133101,3.9
+Census Region 1: Northeast,CENS-R1,2009,2009,Diseases of the genitourinary system,N00-N98,12486,55133101,22.6
+Census Region 1: Northeast,CENS-R1,2009,2009,"Pregnancy, childbirth and the puerperium",O00-O99,158,55133101,0.3
+Census Region 1: Northeast,CENS-R1,2009,2009,Certain conditions originating in the perinatal period,P00-P96,2166,55133101,3.9
+Census Region 1: Northeast,CENS-R1,2009,2009,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1383,55133101,2.5
+Census Region 1: Northeast,CENS-R1,2009,2009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7209,55133101,13.1
+Census Region 1: Northeast,CENS-R1,2009,2009,External causes of morbidity and mortality,V01-Y89,25772,55133101,46.7
+Census Region 1: Northeast,CENS-R1,2010,2010,Certain infectious and parasitic diseases,A00-B99,14708,55317240,26.6
+Census Region 1: Northeast,CENS-R1,2010,2010,Neoplasms,C00-D48,113644,55317240,205.4
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1879,55317240,3.4
+Census Region 1: Northeast,CENS-R1,2010,2010,"Endocrine, nutritional and metabolic diseases",E00-E88,17028,55317240,30.8
+Census Region 1: Northeast,CENS-R1,2010,2010,Mental and behavioural disorders,F01-F99,23592,55317240,42.6
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the nervous system,G00-G98,22006,55317240,39.8
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the circulatory system,I00-I99,155384,55317240,280.9
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the respiratory system,J00-J98,42329,55317240,76.5
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the digestive system,K00-K92,16184,55317240,29.3
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the skin and subcutaneous tissue,L00-L98,768,55317240,1.4
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the musculoskeletal system and connective tissue,M00-M99,2273,55317240,4.1
+Census Region 1: Northeast,CENS-R1,2010,2010,Diseases of the genitourinary system,N00-N98,12627,55317240,22.8
+Census Region 1: Northeast,CENS-R1,2010,2010,"Pregnancy, childbirth and the puerperium",O00-O99,147,55317240,0.3
+Census Region 1: Northeast,CENS-R1,2010,2010,Certain conditions originating in the perinatal period,P00-P96,2029,55317240,3.7
+Census Region 1: Northeast,CENS-R1,2010,2010,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1370,55317240,2.5
+Census Region 1: Northeast,CENS-R1,2010,2010,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6164,55317240,11.1
+Census Region 1: Northeast,CENS-R1,2010,2010,External causes of morbidity and mortality,V01-Y89,27558,55317240,49.8
+Census Region 1: Northeast,CENS-R1,2011,2011,Certain infectious and parasitic diseases,A00-B99,14812,55632766,26.6
+Census Region 1: Northeast,CENS-R1,2011,2011,Neoplasms,C00-D48,113285,55632766,203.6
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1958,55632766,3.5
+Census Region 1: Northeast,CENS-R1,2011,2011,"Endocrine, nutritional and metabolic diseases",E00-E88,18229,55632766,32.8
+Census Region 1: Northeast,CENS-R1,2011,2011,Mental and behavioural disorders,F01-F99,26966,55632766,48.5
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the nervous system,G00-G98,22275,55632766,40
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the ear and mastoid process,H60-H93,14,55632766,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the circulatory system,I00-I99,155119,55632766,278.8
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the respiratory system,J00-J98,45696,55632766,82.1
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the digestive system,K00-K92,16689,55632766,30
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the skin and subcutaneous tissue,L00-L98,865,55632766,1.6
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the musculoskeletal system and connective tissue,M00-M99,2276,55632766,4.1
+Census Region 1: Northeast,CENS-R1,2011,2011,Diseases of the genitourinary system,N00-N98,12316,55632766,22.1
+Census Region 1: Northeast,CENS-R1,2011,2011,"Pregnancy, childbirth and the puerperium",O00-O99,161,55632766,0.3
+Census Region 1: Northeast,CENS-R1,2011,2011,Certain conditions originating in the perinatal period,P00-P96,1922,55632766,3.5
+Census Region 1: Northeast,CENS-R1,2011,2011,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1366,55632766,2.5
+Census Region 1: Northeast,CENS-R1,2011,2011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6813,55632766,12.2
+Census Region 1: Northeast,CENS-R1,2011,2011,External causes of morbidity and mortality,V01-Y89,29273,55632766,52.6
+Census Region 1: Northeast,CENS-R1,2012,2012,Certain infectious and parasitic diseases,A00-B99,14168,55829059,25.4
+Census Region 1: Northeast,CENS-R1,2012,2012,Neoplasms,C00-D48,113183,55829059,202.7
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2073,55829059,3.7
+Census Region 1: Northeast,CENS-R1,2012,2012,"Endocrine, nutritional and metabolic diseases",E00-E88,18307,55829059,32.8
+Census Region 1: Northeast,CENS-R1,2012,2012,Mental and behavioural disorders,F01-F99,28860,55829059,51.7
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the nervous system,G00-G98,22375,55829059,40.1
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the circulatory system,I00-I99,152785,55829059,273.7
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the respiratory system,J00-J98,44071,55829059,78.9
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the digestive system,K00-K92,16379,55829059,29.3
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the skin and subcutaneous tissue,L00-L98,836,55829059,1.5
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the musculoskeletal system and connective tissue,M00-M99,2368,55829059,4.2
+Census Region 1: Northeast,CENS-R1,2012,2012,Diseases of the genitourinary system,N00-N98,11957,55829059,21.4
+Census Region 1: Northeast,CENS-R1,2012,2012,"Pregnancy, childbirth and the puerperium",O00-O99,142,55829059,0.3
+Census Region 1: Northeast,CENS-R1,2012,2012,Certain conditions originating in the perinatal period,P00-P96,1924,55829059,3.4
+Census Region 1: Northeast,CENS-R1,2012,2012,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1381,55829059,2.5
+Census Region 1: Northeast,CENS-R1,2012,2012,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6918,55829059,12.4
+Census Region 1: Northeast,CENS-R1,2012,2012,External causes of morbidity and mortality,V01-Y89,29707,55829059,53.2
+Census Region 1: Northeast,CENS-R1,2013,2013,Certain infectious and parasitic diseases,A00-B99,14476,55988771,25.9
+Census Region 1: Northeast,CENS-R1,2013,2013,Neoplasms,C00-D48,112472,55988771,200.9
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1939,55988771,3.5
+Census Region 1: Northeast,CENS-R1,2013,2013,"Endocrine, nutritional and metabolic diseases",E00-E88,18901,55988771,33.8
+Census Region 1: Northeast,CENS-R1,2013,2013,Mental and behavioural disorders,F01-F99,30785,55988771,55
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the nervous system,G00-G98,22588,55988771,40.3
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the eye and adnexa,H00-H57,11,55988771,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the ear and mastoid process,H60-H93,10,55988771,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the circulatory system,I00-I99,154804,55988771,276.5
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the respiratory system,J00-J98,46354,55988771,82.8
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the digestive system,K00-K92,16842,55988771,30.1
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the skin and subcutaneous tissue,L00-L98,875,55988771,1.6
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the musculoskeletal system and connective tissue,M00-M99,2322,55988771,4.1
+Census Region 1: Northeast,CENS-R1,2013,2013,Diseases of the genitourinary system,N00-N98,12206,55988771,21.8
+Census Region 1: Northeast,CENS-R1,2013,2013,"Pregnancy, childbirth and the puerperium",O00-O99,173,55988771,0.3
+Census Region 1: Northeast,CENS-R1,2013,2013,Certain conditions originating in the perinatal period,P00-P96,1882,55988771,3.4
+Census Region 1: Northeast,CENS-R1,2013,2013,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1374,55988771,2.5
+Census Region 1: Northeast,CENS-R1,2013,2013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7009,55988771,12.5
+Census Region 1: Northeast,CENS-R1,2013,2013,External causes of morbidity and mortality,V01-Y89,30493,55988771,54.5
+Census Region 1: Northeast,CENS-R1,2014,2014,Certain infectious and parasitic diseases,A00-B99,14206,56116791,25.3
+Census Region 1: Northeast,CENS-R1,2014,2014,Neoplasms,C00-D48,112716,56116791,200.9
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2009,56116791,3.6
+Census Region 1: Northeast,CENS-R1,2014,2014,"Endocrine, nutritional and metabolic diseases",E00-E88,19363,56116791,34.5
+Census Region 1: Northeast,CENS-R1,2014,2014,Mental and behavioural disorders,F01-F99,31097,56116791,55.4
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the nervous system,G00-G98,23936,56116791,42.7
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the circulatory system,I00-I99,152779,56116791,272.3
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the respiratory system,J00-J98,45059,56116791,80.3
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the digestive system,K00-K92,17061,56116791,30.4
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the skin and subcutaneous tissue,L00-L98,899,56116791,1.6
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the musculoskeletal system and connective tissue,M00-M99,2350,56116791,4.2
+Census Region 1: Northeast,CENS-R1,2014,2014,Diseases of the genitourinary system,N00-N98,12359,56116791,22
+Census Region 1: Northeast,CENS-R1,2014,2014,"Pregnancy, childbirth and the puerperium",O00-O99,172,56116791,0.3
+Census Region 1: Northeast,CENS-R1,2014,2014,Certain conditions originating in the perinatal period,P00-P96,1760,56116791,3.1
+Census Region 1: Northeast,CENS-R1,2014,2014,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1333,56116791,2.4
+Census Region 1: Northeast,CENS-R1,2014,2014,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6832,56116791,12.2
+Census Region 1: Northeast,CENS-R1,2014,2014,External causes of morbidity and mortality,V01-Y89,31228,56116791,55.6
+Census Region 1: Northeast,CENS-R1,2015,2015,Certain infectious and parasitic diseases,A00-B99,14577,56184737,25.9
+Census Region 1: Northeast,CENS-R1,2015,2015,Neoplasms,C00-D48,112334,56184737,199.9
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2006,56184737,3.6
+Census Region 1: Northeast,CENS-R1,2015,2015,"Endocrine, nutritional and metabolic diseases",E00-E88,19671,56184737,35
+Census Region 1: Northeast,CENS-R1,2015,2015,Mental and behavioural disorders,F01-F99,31223,56184737,55.6
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the nervous system,G00-G98,26588,56184737,47.3
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the ear and mastoid process,H60-H93,15,56184737,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the circulatory system,I00-I99,156936,56184737,279.3
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the respiratory system,J00-J98,48098,56184737,85.6
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the digestive system,K00-K92,17476,56184737,31.1
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the skin and subcutaneous tissue,L00-L98,919,56184737,1.6
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the musculoskeletal system and connective tissue,M00-M99,2292,56184737,4.1
+Census Region 1: Northeast,CENS-R1,2015,2015,Diseases of the genitourinary system,N00-N98,12841,56184737,22.9
+Census Region 1: Northeast,CENS-R1,2015,2015,"Pregnancy, childbirth and the puerperium",O00-O99,155,56184737,0.3
+Census Region 1: Northeast,CENS-R1,2015,2015,Certain conditions originating in the perinatal period,P00-P96,1772,56184737,3.2
+Census Region 1: Northeast,CENS-R1,2015,2015,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1377,56184737,2.5
+Census Region 1: Northeast,CENS-R1,2015,2015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7087,56184737,12.6
+Census Region 1: Northeast,CENS-R1,2015,2015,External causes of morbidity and mortality,V01-Y89,34010,56184737,60.5
+Census Region 1: Northeast,CENS-R1,2016,2016,Certain infectious and parasitic diseases,A00-B99,13901,56209510,24.7
+Census Region 1: Northeast,CENS-R1,2016,2016,Neoplasms,C00-D48,112293,56209510,199.8
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2021,56209510,3.6
+Census Region 1: Northeast,CENS-R1,2016,2016,"Endocrine, nutritional and metabolic diseases",E00-E88,19686,56209510,35
+Census Region 1: Northeast,CENS-R1,2016,2016,Mental and behavioural disorders,F01-F99,30727,56209510,54.7
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the nervous system,G00-G98,27697,56209510,49.3
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the ear and mastoid process,H60-H93,16,56209510,0.0 (Unreliable)
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the circulatory system,I00-I99,155817,56209510,277.2
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the respiratory system,J00-J98,45574,56209510,81.1
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the digestive system,K00-K92,17806,56209510,31.7
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the skin and subcutaneous tissue,L00-L98,929,56209510,1.7
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the musculoskeletal system and connective tissue,M00-M99,2292,56209510,4.1
+Census Region 1: Northeast,CENS-R1,2016,2016,Diseases of the genitourinary system,N00-N98,12732,56209510,22.7
+Census Region 1: Northeast,CENS-R1,2016,2016,"Pregnancy, childbirth and the puerperium",O00-O99,188,56209510,0.3
+Census Region 1: Northeast,CENS-R1,2016,2016,Certain conditions originating in the perinatal period,P00-P96,1687,56209510,3
+Census Region 1: Northeast,CENS-R1,2016,2016,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,1416,56209510,2.5
+Census Region 1: Northeast,CENS-R1,2016,2016,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7396,56209510,13.2
+Census Region 1: Northeast,CENS-R1,2016,2016,External causes of morbidity and mortality,V01-Y89,37900,56209510,67.4
+Census Region 2: Midwest,CENS-R2,1999,1999,Certain infectious and parasitic diseases,A00-B99,11621,64100061,18.1
+Census Region 2: Midwest,CENS-R2,1999,1999,Neoplasms,C00-D48,136222,64100061,212.5
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2309,64100061,3.6
+Census Region 2: Midwest,CENS-R2,1999,1999,"Endocrine, nutritional and metabolic diseases",E00-E88,23319,64100061,36.4
+Census Region 2: Midwest,CENS-R2,1999,1999,Mental and behavioural disorders,F01-F99,11605,64100061,18.1
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the nervous system,G00-G98,21991,64100061,34.3
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the eye and adnexa,H00-H57,12,64100061,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the ear and mastoid process,H60-H93,18,64100061,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the circulatory system,I00-I99,234297,64100061,365.5
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the respiratory system,J00-J98,56837,64100061,88.7
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the digestive system,K00-K92,19339,64100061,30.2
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the skin and subcutaneous tissue,L00-L98,851,64100061,1.3
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the musculoskeletal system and connective tissue,M00-M99,3483,64100061,5.4
+Census Region 2: Midwest,CENS-R2,1999,1999,Diseases of the genitourinary system,N00-N98,13417,64100061,20.9
+Census Region 2: Midwest,CENS-R2,1999,1999,"Pregnancy, childbirth and the puerperium",O00-O99,76,64100061,0.1
+Census Region 2: Midwest,CENS-R2,1999,1999,Certain conditions originating in the perinatal period,P00-P96,3428,64100061,5.3
+Census Region 2: Midwest,CENS-R2,1999,1999,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2548,64100061,4
+Census Region 2: Midwest,CENS-R2,1999,1999,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6241,64100061,9.7
+Census Region 2: Midwest,CENS-R2,1999,1999,External causes of morbidity and mortality,V01-Y89,34532,64100061,53.9
+Census Region 2: Midwest,CENS-R2,2000,2000,Certain infectious and parasitic diseases,A00-B99,11294,64392776,17.5
+Census Region 2: Midwest,CENS-R2,2000,2000,Neoplasms,C00-D48,136488,64392776,212
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2259,64392776,3.5
+Census Region 2: Midwest,CENS-R2,2000,2000,"Endocrine, nutritional and metabolic diseases",E00-E88,23443,64392776,36.4
+Census Region 2: Midwest,CENS-R2,2000,2000,Mental and behavioural disorders,F01-F99,12400,64392776,19.3
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the nervous system,G00-G98,23579,64392776,36.6
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the eye and adnexa,H00-H57,13,64392776,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the ear and mastoid process,H60-H93,19,64392776,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the circulatory system,I00-I99,228356,64392776,354.6
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the respiratory system,J00-J98,54965,64392776,85.4
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the digestive system,K00-K92,19617,64392776,30.5
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the skin and subcutaneous tissue,L00-L98,857,64392776,1.3
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the musculoskeletal system and connective tissue,M00-M99,3550,64392776,5.5
+Census Region 2: Midwest,CENS-R2,2000,2000,Diseases of the genitourinary system,N00-N98,13864,64392776,21.5
+Census Region 2: Midwest,CENS-R2,2000,2000,"Pregnancy, childbirth and the puerperium",O00-O99,83,64392776,0.1
+Census Region 2: Midwest,CENS-R2,2000,2000,Certain conditions originating in the perinatal period,P00-P96,3419,64392776,5.3
+Census Region 2: Midwest,CENS-R2,2000,2000,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2559,64392776,4
+Census Region 2: Midwest,CENS-R2,2000,2000,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6086,64392776,9.5
+Census Region 2: Midwest,CENS-R2,2000,2000,External causes of morbidity and mortality,V01-Y89,33992,64392776,52.8
+Census Region 2: Midwest,CENS-R2,2001,2001,Certain infectious and parasitic diseases,A00-B99,11273,64776531,17.4
+Census Region 2: Midwest,CENS-R2,2001,2001,Neoplasms,C00-D48,135855,64776531,209.7
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2358,64776531,3.6
+Census Region 2: Midwest,CENS-R2,2001,2001,"Endocrine, nutritional and metabolic diseases",E00-E88,24148,64776531,37.3
+Census Region 2: Midwest,CENS-R2,2001,2001,Mental and behavioural disorders,F01-F99,13449,64776531,20.8
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the nervous system,G00-G98,24491,64776531,37.8
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the eye and adnexa,H00-H57,10,64776531,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the ear and mastoid process,H60-H93,23,64776531,0
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the circulatory system,I00-I99,223088,64776531,344.4
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the respiratory system,J00-J98,54282,64776531,83.8
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the digestive system,K00-K92,19913,64776531,30.7
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the skin and subcutaneous tissue,L00-L98,905,64776531,1.4
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the musculoskeletal system and connective tissue,M00-M99,3550,64776531,5.5
+Census Region 2: Midwest,CENS-R2,2001,2001,Diseases of the genitourinary system,N00-N98,14311,64776531,22.1
+Census Region 2: Midwest,CENS-R2,2001,2001,"Pregnancy, childbirth and the puerperium",O00-O99,64,64776531,0.1
+Census Region 2: Midwest,CENS-R2,2001,2001,Certain conditions originating in the perinatal period,P00-P96,3291,64776531,5.1
+Census Region 2: Midwest,CENS-R2,2001,2001,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2492,64776531,3.8
+Census Region 2: Midwest,CENS-R2,2001,2001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5952,64776531,9.2
+Census Region 2: Midwest,CENS-R2,2001,2001,Codes for special purposes,U00-U99,17,64776531,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2001,2001,External causes of morbidity and mortality,V01-Y89,35535,64776531,54.9
+Census Region 2: Midwest,CENS-R2,2002,2002,Certain infectious and parasitic diseases,A00-B99,12458,65018293,19.2
+Census Region 2: Midwest,CENS-R2,2002,2002,Neoplasms,C00-D48,136609,65018293,210.1
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2378,65018293,3.7
+Census Region 2: Midwest,CENS-R2,2002,2002,"Endocrine, nutritional and metabolic diseases",E00-E88,24648,65018293,37.9
+Census Region 2: Midwest,CENS-R2,2002,2002,Mental and behavioural disorders,F01-F99,14580,65018293,22.4
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the nervous system,G00-G98,26352,65018293,40.5
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the eye and adnexa,H00-H57,12,65018293,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the ear and mastoid process,H60-H93,11,65018293,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the circulatory system,I00-I99,221342,65018293,340.4
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the respiratory system,J00-J98,55704,65018293,85.7
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the digestive system,K00-K92,20165,65018293,31
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the skin and subcutaneous tissue,L00-L98,960,65018293,1.5
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the musculoskeletal system and connective tissue,M00-M99,3766,65018293,5.8
+Census Region 2: Midwest,CENS-R2,2002,2002,Diseases of the genitourinary system,N00-N98,14892,65018293,22.9
+Census Region 2: Midwest,CENS-R2,2002,2002,"Pregnancy, childbirth and the puerperium",O00-O99,62,65018293,0.1
+Census Region 2: Midwest,CENS-R2,2002,2002,Certain conditions originating in the perinatal period,P00-P96,3300,65018293,5.1
+Census Region 2: Midwest,CENS-R2,2002,2002,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2588,65018293,4
+Census Region 2: Midwest,CENS-R2,2002,2002,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6132,65018293,9.4
+Census Region 2: Midwest,CENS-R2,2002,2002,External causes of morbidity and mortality,V01-Y89,36623,65018293,56.3
+Census Region 2: Midwest,CENS-R2,2003,2003,Certain infectious and parasitic diseases,A00-B99,12423,65276954,19
+Census Region 2: Midwest,CENS-R2,2003,2003,Neoplasms,C00-D48,135974,65276954,208.3
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2379,65276954,3.6
+Census Region 2: Midwest,CENS-R2,2003,2003,"Endocrine, nutritional and metabolic diseases",E00-E88,24264,65276954,37.2
+Census Region 2: Midwest,CENS-R2,2003,2003,Mental and behavioural disorders,F01-F99,15502,65276954,23.7
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the nervous system,G00-G98,27807,65276954,42.6
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the eye and adnexa,H00-H57,11,65276954,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the ear and mastoid process,H60-H93,19,65276954,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the circulatory system,I00-I99,215021,65276954,329.4
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the respiratory system,J00-J98,55495,65276954,85
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the digestive system,K00-K92,20081,65276954,30.8
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the skin and subcutaneous tissue,L00-L98,970,65276954,1.5
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the musculoskeletal system and connective tissue,M00-M99,3630,65276954,5.6
+Census Region 2: Midwest,CENS-R2,2003,2003,Diseases of the genitourinary system,N00-N98,15137,65276954,23.2
+Census Region 2: Midwest,CENS-R2,2003,2003,"Pregnancy, childbirth and the puerperium",O00-O99,76,65276954,0.1
+Census Region 2: Midwest,CENS-R2,2003,2003,Certain conditions originating in the perinatal period,P00-P96,3319,65276954,5.1
+Census Region 2: Midwest,CENS-R2,2003,2003,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2520,65276954,3.9
+Census Region 2: Midwest,CENS-R2,2003,2003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7572,65276954,11.6
+Census Region 2: Midwest,CENS-R2,2003,2003,External causes of morbidity and mortality,V01-Y89,35652,65276954,54.6
+Census Region 2: Midwest,CENS-R2,2004,2004,Certain infectious and parasitic diseases,A00-B99,12047,65532305,18.4
+Census Region 2: Midwest,CENS-R2,2004,2004,Neoplasms,C00-D48,134948,65532305,205.9
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2322,65532305,3.5
+Census Region 2: Midwest,CENS-R2,2004,2004,"Endocrine, nutritional and metabolic diseases",E00-E88,23834,65532305,36.4
+Census Region 2: Midwest,CENS-R2,2004,2004,Mental and behavioural disorders,F01-F99,15834,65532305,24.2
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the nervous system,G00-G98,27846,65532305,42.5
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the eye and adnexa,H00-H57,13,65532305,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the ear and mastoid process,H60-H93,12,65532305,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the circulatory system,I00-I99,204554,65532305,312.1
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the respiratory system,J00-J98,53603,65532305,81.8
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the digestive system,K00-K92,19955,65532305,30.5
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the skin and subcutaneous tissue,L00-L98,960,65532305,1.5
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the musculoskeletal system and connective tissue,M00-M99,3584,65532305,5.5
+Census Region 2: Midwest,CENS-R2,2004,2004,Diseases of the genitourinary system,N00-N98,14892,65532305,22.7
+Census Region 2: Midwest,CENS-R2,2004,2004,"Pregnancy, childbirth and the puerperium",O00-O99,115,65532305,0.2
+Census Region 2: Midwest,CENS-R2,2004,2004,Certain conditions originating in the perinatal period,P00-P96,3202,65532305,4.9
+Census Region 2: Midwest,CENS-R2,2004,2004,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2475,65532305,3.8
+Census Region 2: Midwest,CENS-R2,2004,2004,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5660,65532305,8.6
+Census Region 2: Midwest,CENS-R2,2004,2004,External causes of morbidity and mortality,V01-Y89,36872,65532305,56.3
+Census Region 2: Midwest,CENS-R2,2005,2005,Certain infectious and parasitic diseases,A00-B99,12657,65751872,19.2
+Census Region 2: Midwest,CENS-R2,2005,2005,Neoplasms,C00-D48,135582,65751872,206.2
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2314,65751872,3.5
+Census Region 2: Midwest,CENS-R2,2005,2005,"Endocrine, nutritional and metabolic diseases",E00-E88,24613,65751872,37.4
+Census Region 2: Midwest,CENS-R2,2005,2005,Mental and behavioural disorders,F01-F99,18036,65751872,27.4
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the nervous system,G00-G98,30495,65751872,46.4
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the eye and adnexa,H00-H57,10,65751872,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the ear and mastoid process,H60-H93,12,65751872,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the circulatory system,I00-I99,203111,65751872,308.9
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the respiratory system,J00-J98,57715,65751872,87.8
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the digestive system,K00-K92,19961,65751872,30.4
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the skin and subcutaneous tissue,L00-L98,976,65751872,1.5
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the musculoskeletal system and connective tissue,M00-M99,3738,65751872,5.7
+Census Region 2: Midwest,CENS-R2,2005,2005,Diseases of the genitourinary system,N00-N98,15467,65751872,23.5
+Census Region 2: Midwest,CENS-R2,2005,2005,"Pregnancy, childbirth and the puerperium",O00-O99,140,65751872,0.2
+Census Region 2: Midwest,CENS-R2,2005,2005,Certain conditions originating in the perinatal period,P00-P96,3324,65751872,5.1
+Census Region 2: Midwest,CENS-R2,2005,2005,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2499,65751872,3.8
+Census Region 2: Midwest,CENS-R2,2005,2005,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6019,65751872,9.2
+Census Region 2: Midwest,CENS-R2,2005,2005,External causes of morbidity and mortality,V01-Y89,38064,65751872,57.9
+Census Region 2: Midwest,CENS-R2,2006,2006,Certain infectious and parasitic diseases,A00-B99,12700,66028555,19.2
+Census Region 2: Midwest,CENS-R2,2006,2006,Neoplasms,C00-D48,136212,66028555,206.3
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2157,66028555,3.3
+Census Region 2: Midwest,CENS-R2,2006,2006,"Endocrine, nutritional and metabolic diseases",E00-E88,23951,66028555,36.3
+Census Region 2: Midwest,CENS-R2,2006,2006,Mental and behavioural disorders,F01-F99,22848,66028555,34.6
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the nervous system,G00-G98,30860,66028555,46.7
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the eye and adnexa,H00-H57,14,66028555,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the ear and mastoid process,H60-H93,11,66028555,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the circulatory system,I00-I99,194626,66028555,294.8
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the respiratory system,J00-J98,53881,66028555,81.6
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the digestive system,K00-K92,20089,66028555,30.4
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the skin and subcutaneous tissue,L00-L98,918,66028555,1.4
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the musculoskeletal system and connective tissue,M00-M99,3551,66028555,5.4
+Census Region 2: Midwest,CENS-R2,2006,2006,Diseases of the genitourinary system,N00-N98,15431,66028555,23.4
+Census Region 2: Midwest,CENS-R2,2006,2006,"Pregnancy, childbirth and the puerperium",O00-O99,131,66028555,0.2
+Census Region 2: Midwest,CENS-R2,2006,2006,Certain conditions originating in the perinatal period,P00-P96,3117,66028555,4.7
+Census Region 2: Midwest,CENS-R2,2006,2006,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2496,66028555,3.8
+Census Region 2: Midwest,CENS-R2,2006,2006,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5959,66028555,9
+Census Region 2: Midwest,CENS-R2,2006,2006,External causes of morbidity and mortality,V01-Y89,39336,66028555,59.6
+Census Region 2: Midwest,CENS-R2,2007,2007,Certain infectious and parasitic diseases,A00-B99,12885,66293689,19.4
+Census Region 2: Midwest,CENS-R2,2007,2007,Neoplasms,C00-D48,136407,66293689,205.8
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2365,66293689,3.6
+Census Region 2: Midwest,CENS-R2,2007,2007,"Endocrine, nutritional and metabolic diseases",E00-E88,23802,66293689,35.9
+Census Region 2: Midwest,CENS-R2,2007,2007,Mental and behavioural disorders,F01-F99,22259,66293689,33.6
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the nervous system,G00-G98,31513,66293689,47.5
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the eye and adnexa,H00-H57,14,66293689,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the ear and mastoid process,H60-H93,22,66293689,0
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the circulatory system,I00-I99,189414,66293689,285.7
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the respiratory system,J00-J98,54162,66293689,81.7
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the digestive system,K00-K92,20062,66293689,30.3
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the skin and subcutaneous tissue,L00-L98,902,66293689,1.4
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the musculoskeletal system and connective tissue,M00-M99,3600,66293689,5.4
+Census Region 2: Midwest,CENS-R2,2007,2007,Diseases of the genitourinary system,N00-N98,15540,66293689,23.4
+Census Region 2: Midwest,CENS-R2,2007,2007,"Pregnancy, childbirth and the puerperium",O00-O99,155,66293689,0.2
+Census Region 2: Midwest,CENS-R2,2007,2007,Certain conditions originating in the perinatal period,P00-P96,3310,66293689,5
+Census Region 2: Midwest,CENS-R2,2007,2007,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2400,66293689,3.6
+Census Region 2: Midwest,CENS-R2,2007,2007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6080,66293689,9.2
+Census Region 2: Midwest,CENS-R2,2007,2007,External causes of morbidity and mortality,V01-Y89,39773,66293689,60
+Census Region 2: Midwest,CENS-R2,2008,2008,Certain infectious and parasitic diseases,A00-B99,13530,66523935,20.3
+Census Region 2: Midwest,CENS-R2,2008,2008,Neoplasms,C00-D48,137374,66523935,206.5
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2355,66523935,3.5
+Census Region 2: Midwest,CENS-R2,2008,2008,"Endocrine, nutritional and metabolic diseases",E00-E88,23779,66523935,35.7
+Census Region 2: Midwest,CENS-R2,2008,2008,Mental and behavioural disorders,F01-F99,26603,66523935,40
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the nervous system,G00-G98,34492,66523935,51.8
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the eye and adnexa,H00-H57,15,66523935,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the ear and mastoid process,H60-H93,12,66523935,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the circulatory system,I00-I99,190941,66523935,287
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the respiratory system,J00-J98,60233,66523935,90.5
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the digestive system,K00-K92,20713,66523935,31.1
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the skin and subcutaneous tissue,L00-L98,897,66523935,1.3
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the musculoskeletal system and connective tissue,M00-M99,3582,66523935,5.4
+Census Region 2: Midwest,CENS-R2,2008,2008,Diseases of the genitourinary system,N00-N98,15255,66523935,22.9
+Census Region 2: Midwest,CENS-R2,2008,2008,"Pregnancy, childbirth and the puerperium",O00-O99,160,66523935,0.2
+Census Region 2: Midwest,CENS-R2,2008,2008,Certain conditions originating in the perinatal period,P00-P96,3067,66523935,4.6
+Census Region 2: Midwest,CENS-R2,2008,2008,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2408,66523935,3.6
+Census Region 2: Midwest,CENS-R2,2008,2008,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6689,66523935,10.1
+Census Region 2: Midwest,CENS-R2,2008,2008,External causes of morbidity and mortality,V01-Y89,40153,66523935,60.4
+Census Region 2: Midwest,CENS-R2,2009,2009,Certain infectious and parasitic diseases,A00-B99,13707,66748437,20.5
+Census Region 2: Midwest,CENS-R2,2009,2009,Neoplasms,C00-D48,136861,66748437,205
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2325,66748437,3.5
+Census Region 2: Midwest,CENS-R2,2009,2009,"Endocrine, nutritional and metabolic diseases",E00-E88,23167,66748437,34.7
+Census Region 2: Midwest,CENS-R2,2009,2009,Mental and behavioural disorders,F01-F99,26506,66748437,39.7
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the nervous system,G00-G98,33030,66748437,49.5
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the eye and adnexa,H00-H57,11,66748437,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the ear and mastoid process,H60-H93,12,66748437,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the circulatory system,I00-I99,181795,66748437,272.4
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the respiratory system,J00-J98,56940,66748437,85.3
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the digestive system,K00-K92,20157,66748437,30.2
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the skin and subcutaneous tissue,L00-L98,927,66748437,1.4
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the musculoskeletal system and connective tissue,M00-M99,3311,66748437,5
+Census Region 2: Midwest,CENS-R2,2009,2009,Diseases of the genitourinary system,N00-N98,15374,66748437,23
+Census Region 2: Midwest,CENS-R2,2009,2009,"Pregnancy, childbirth and the puerperium",O00-O99,212,66748437,0.3
+Census Region 2: Midwest,CENS-R2,2009,2009,Certain conditions originating in the perinatal period,P00-P96,2897,66748437,4.3
+Census Region 2: Midwest,CENS-R2,2009,2009,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2318,66748437,3.5
+Census Region 2: Midwest,CENS-R2,2009,2009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,8768,66748437,13.1
+Census Region 2: Midwest,CENS-R2,2009,2009,External causes of morbidity and mortality,V01-Y89,38348,66748437,57.5
+Census Region 2: Midwest,CENS-R2,2010,2010,Certain infectious and parasitic diseases,A00-B99,13375,66927001,20
+Census Region 2: Midwest,CENS-R2,2010,2010,Neoplasms,C00-D48,138205,66927001,206.5
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2309,66927001,3.5
+Census Region 2: Midwest,CENS-R2,2010,2010,"Endocrine, nutritional and metabolic diseases",E00-E88,23160,66927001,34.6
+Census Region 2: Midwest,CENS-R2,2010,2010,Mental and behavioural disorders,F01-F99,29840,66927001,44.6
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the nervous system,G00-G98,34713,66927001,51.9
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the eye and adnexa,H00-H57,15,66927001,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the ear and mastoid process,H60-H93,14,66927001,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the circulatory system,I00-I99,183104,66927001,273.6
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the respiratory system,J00-J98,56839,66927001,84.9
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the digestive system,K00-K92,20601,66927001,30.8
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the skin and subcutaneous tissue,L00-L98,973,66927001,1.5
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the musculoskeletal system and connective tissue,M00-M99,3381,66927001,5.1
+Census Region 2: Midwest,CENS-R2,2010,2010,Diseases of the genitourinary system,N00-N98,16004,66927001,23.9
+Census Region 2: Midwest,CENS-R2,2010,2010,"Pregnancy, childbirth and the puerperium",O00-O99,183,66927001,0.3
+Census Region 2: Midwest,CENS-R2,2010,2010,Certain conditions originating in the perinatal period,P00-P96,2756,66927001,4.1
+Census Region 2: Midwest,CENS-R2,2010,2010,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2301,66927001,3.4
+Census Region 2: Midwest,CENS-R2,2010,2010,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7418,66927001,11.1
+Census Region 2: Midwest,CENS-R2,2010,2010,External causes of morbidity and mortality,V01-Y89,40238,66927001,60.1
+Census Region 2: Midwest,CENS-R2,2011,2011,Certain infectious and parasitic diseases,A00-B99,13812,67153331,20.6
+Census Region 2: Midwest,CENS-R2,2011,2011,Neoplasms,C00-D48,138323,67153331,206
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2419,67153331,3.6
+Census Region 2: Midwest,CENS-R2,2011,2011,"Endocrine, nutritional and metabolic diseases",E00-E88,24572,67153331,36.6
+Census Region 2: Midwest,CENS-R2,2011,2011,Mental and behavioural disorders,F01-F99,33607,67153331,50
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the nervous system,G00-G98,35547,67153331,52.9
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the eye and adnexa,H00-H57,10,67153331,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the ear and mastoid process,H60-H93,20,67153331,0
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the circulatory system,I00-I99,183138,67153331,272.7
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the respiratory system,J00-J98,60018,67153331,89.4
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the digestive system,K00-K92,20941,67153331,31.2
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the skin and subcutaneous tissue,L00-L98,1017,67153331,1.5
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the musculoskeletal system and connective tissue,M00-M99,3519,67153331,5.2
+Census Region 2: Midwest,CENS-R2,2011,2011,Diseases of the genitourinary system,N00-N98,15141,67153331,22.5
+Census Region 2: Midwest,CENS-R2,2011,2011,"Pregnancy, childbirth and the puerperium",O00-O99,231,67153331,0.3
+Census Region 2: Midwest,CENS-R2,2011,2011,Certain conditions originating in the perinatal period,P00-P96,2720,67153331,4.1
+Census Region 2: Midwest,CENS-R2,2011,2011,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2305,67153331,3.4
+Census Region 2: Midwest,CENS-R2,2011,2011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7949,67153331,11.8
+Census Region 2: Midwest,CENS-R2,2011,2011,External causes of morbidity and mortality,V01-Y89,41887,67153331,62.4
+Census Region 2: Midwest,CENS-R2,2012,2012,Certain infectious and parasitic diseases,A00-B99,13692,67332320,20.3
+Census Region 2: Midwest,CENS-R2,2012,2012,Neoplasms,C00-D48,139365,67332320,207
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2386,67332320,3.5
+Census Region 2: Midwest,CENS-R2,2012,2012,"Endocrine, nutritional and metabolic diseases",E00-E88,24361,67332320,36.2
+Census Region 2: Midwest,CENS-R2,2012,2012,Mental and behavioural disorders,F01-F99,35474,67332320,52.7
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the nervous system,G00-G98,35704,67332320,53
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the eye and adnexa,H00-H57,15,67332320,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the ear and mastoid process,H60-H93,17,67332320,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the circulatory system,I00-I99,183833,67332320,273
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the respiratory system,J00-J98,59516,67332320,88.4
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the digestive system,K00-K92,20754,67332320,30.8
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the skin and subcutaneous tissue,L00-L98,1029,67332320,1.5
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the musculoskeletal system and connective tissue,M00-M99,3410,67332320,5.1
+Census Region 2: Midwest,CENS-R2,2012,2012,Diseases of the genitourinary system,N00-N98,15232,67332320,22.6
+Census Region 2: Midwest,CENS-R2,2012,2012,"Pregnancy, childbirth and the puerperium",O00-O99,226,67332320,0.3
+Census Region 2: Midwest,CENS-R2,2012,2012,Certain conditions originating in the perinatal period,P00-P96,2749,67332320,4.1
+Census Region 2: Midwest,CENS-R2,2012,2012,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2177,67332320,3.2
+Census Region 2: Midwest,CENS-R2,2012,2012,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,8518,67332320,12.7
+Census Region 2: Midwest,CENS-R2,2012,2012,External causes of morbidity and mortality,V01-Y89,42764,67332320,63.5
+Census Region 2: Midwest,CENS-R2,2013,2013,Certain infectious and parasitic diseases,A00-B99,14165,67543948,21
+Census Region 2: Midwest,CENS-R2,2013,2013,Neoplasms,C00-D48,139146,67543948,206
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2386,67543948,3.5
+Census Region 2: Midwest,CENS-R2,2013,2013,"Endocrine, nutritional and metabolic diseases",E00-E88,25185,67543948,37.3
+Census Region 2: Midwest,CENS-R2,2013,2013,Mental and behavioural disorders,F01-F99,37445,67543948,55.4
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the nervous system,G00-G98,36751,67543948,54.4
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the eye and adnexa,H00-H57,11,67543948,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the ear and mastoid process,H60-H93,17,67543948,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the circulatory system,I00-I99,185910,67543948,275.2
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the respiratory system,J00-J98,62647,67543948,92.7
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the digestive system,K00-K92,21702,67543948,32.1
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the skin and subcutaneous tissue,L00-L98,985,67543948,1.5
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the musculoskeletal system and connective tissue,M00-M99,3338,67543948,4.9
+Census Region 2: Midwest,CENS-R2,2013,2013,Diseases of the genitourinary system,N00-N98,15537,67543948,23
+Census Region 2: Midwest,CENS-R2,2013,2013,"Pregnancy, childbirth and the puerperium",O00-O99,219,67543948,0.3
+Census Region 2: Midwest,CENS-R2,2013,2013,Certain conditions originating in the perinatal period,P00-P96,2700,67543948,4
+Census Region 2: Midwest,CENS-R2,2013,2013,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2332,67543948,3.5
+Census Region 2: Midwest,CENS-R2,2013,2013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,7378,67543948,10.9
+Census Region 2: Midwest,CENS-R2,2013,2013,External causes of morbidity and mortality,V01-Y89,43834,67543948,64.9
+Census Region 2: Midwest,CENS-R2,2014,2014,Certain infectious and parasitic diseases,A00-B99,13934,67726368,20.6
+Census Region 2: Midwest,CENS-R2,2014,2014,Neoplasms,C00-D48,141171,67726368,208.4
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2563,67726368,3.8
+Census Region 2: Midwest,CENS-R2,2014,2014,"Endocrine, nutritional and metabolic diseases",E00-E88,26214,67726368,38.7
+Census Region 2: Midwest,CENS-R2,2014,2014,Mental and behavioural disorders,F01-F99,37542,67726368,55.4
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the nervous system,G00-G98,39014,67726368,57.6
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the ear and mastoid process,H60-H93,19,67726368,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the circulatory system,I00-I99,187463,67726368,276.8
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the respiratory system,J00-J98,62021,67726368,91.6
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the digestive system,K00-K92,22039,67726368,32.5
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the skin and subcutaneous tissue,L00-L98,1028,67726368,1.5
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the musculoskeletal system and connective tissue,M00-M99,3317,67726368,4.9
+Census Region 2: Midwest,CENS-R2,2014,2014,Diseases of the genitourinary system,N00-N98,16310,67726368,24.1
+Census Region 2: Midwest,CENS-R2,2014,2014,"Pregnancy, childbirth and the puerperium",O00-O99,211,67726368,0.3
+Census Region 2: Midwest,CENS-R2,2014,2014,Certain conditions originating in the perinatal period,P00-P96,2672,67726368,3.9
+Census Region 2: Midwest,CENS-R2,2014,2014,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2277,67726368,3.4
+Census Region 2: Midwest,CENS-R2,2014,2014,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6277,67726368,9.3
+Census Region 2: Midwest,CENS-R2,2014,2014,External causes of morbidity and mortality,V01-Y89,45284,67726368,66.9
+Census Region 2: Midwest,CENS-R2,2015,2015,Certain infectious and parasitic diseases,A00-B99,14536,67838387,21.4
+Census Region 2: Midwest,CENS-R2,2015,2015,Neoplasms,C00-D48,141168,67838387,208.1
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2515,67838387,3.7
+Census Region 2: Midwest,CENS-R2,2015,2015,"Endocrine, nutritional and metabolic diseases",E00-E88,27387,67838387,40.4
+Census Region 2: Midwest,CENS-R2,2015,2015,Mental and behavioural disorders,F01-F99,35571,67838387,52.4
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the nervous system,G00-G98,42487,67838387,62.6
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the eye and adnexa,H00-H57,19,67838387,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the ear and mastoid process,H60-H93,13,67838387,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the circulatory system,I00-I99,191689,67838387,282.6
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the respiratory system,J00-J98,64539,67838387,95.1
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the digestive system,K00-K92,22747,67838387,33.5
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the skin and subcutaneous tissue,L00-L98,1100,67838387,1.6
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the musculoskeletal system and connective tissue,M00-M99,3328,67838387,4.9
+Census Region 2: Midwest,CENS-R2,2015,2015,Diseases of the genitourinary system,N00-N98,16860,67838387,24.9
+Census Region 2: Midwest,CENS-R2,2015,2015,"Pregnancy, childbirth and the puerperium",O00-O99,231,67838387,0.3
+Census Region 2: Midwest,CENS-R2,2015,2015,Certain conditions originating in the perinatal period,P00-P96,2619,67838387,3.9
+Census Region 2: Midwest,CENS-R2,2015,2015,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2405,67838387,3.5
+Census Region 2: Midwest,CENS-R2,2015,2015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6268,67838387,9.2
+Census Region 2: Midwest,CENS-R2,2015,2015,External causes of morbidity and mortality,V01-Y89,48324,67838387,71.2
+Census Region 2: Midwest,CENS-R2,2016,2016,Certain infectious and parasitic diseases,A00-B99,13943,67941429,20.5
+Census Region 2: Midwest,CENS-R2,2016,2016,Neoplasms,C00-D48,140388,67941429,206.6
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,2487,67941429,3.7
+Census Region 2: Midwest,CENS-R2,2016,2016,"Endocrine, nutritional and metabolic diseases",E00-E88,27439,67941429,40.4
+Census Region 2: Midwest,CENS-R2,2016,2016,Mental and behavioural disorders,F01-F99,34046,67941429,50.1
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the nervous system,G00-G98,45884,67941429,67.5
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the eye and adnexa,H00-H57,10,67941429,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the ear and mastoid process,H60-H93,18,67941429,0.0 (Unreliable)
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the circulatory system,I00-I99,190666,67941429,280.6
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the respiratory system,J00-J98,62514,67941429,92
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the digestive system,K00-K92,23243,67941429,34.2
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the skin and subcutaneous tissue,L00-L98,1185,67941429,1.7
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the musculoskeletal system and connective tissue,M00-M99,3416,67941429,5
+Census Region 2: Midwest,CENS-R2,2016,2016,Diseases of the genitourinary system,N00-N98,16935,67941429,24.9
+Census Region 2: Midwest,CENS-R2,2016,2016,"Pregnancy, childbirth and the puerperium",O00-O99,248,67941429,0.4
+Census Region 2: Midwest,CENS-R2,2016,2016,Certain conditions originating in the perinatal period,P00-P96,2683,67941429,3.9
+Census Region 2: Midwest,CENS-R2,2016,2016,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2483,67941429,3.7
+Census Region 2: Midwest,CENS-R2,2016,2016,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6652,67941429,9.8
+Census Region 2: Midwest,CENS-R2,2016,2016,External causes of morbidity and mortality,V01-Y89,52909,67941429,77.9
+Census Region 3: South,CENS-R3,1999,1999,Certain infectious and parasitic diseases,A00-B99,24545,99164460,24.8
+Census Region 3: South,CENS-R3,1999,1999,Neoplasms,C00-D48,203523,99164460,205.2
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3502,99164460,3.5
+Census Region 3: South,CENS-R3,1999,1999,"Endocrine, nutritional and metabolic diseases",E00-E88,35131,99164460,35.4
+Census Region 3: South,CENS-R3,1999,1999,Mental and behavioural disorders,F01-F99,14771,99164460,14.9
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the nervous system,G00-G98,29491,99164460,29.7
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the eye and adnexa,H00-H57,17,99164460,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the ear and mastoid process,H60-H93,21,99164460,0
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the circulatory system,I00-I99,346428,99164460,349.3
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the respiratory system,J00-J98,83503,99164460,84.2
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the digestive system,K00-K92,30388,99164460,30.6
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the skin and subcutaneous tissue,L00-L98,1593,99164460,1.6
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the musculoskeletal system and connective tissue,M00-M99,4670,99164460,4.7
+Census Region 3: South,CENS-R3,1999,1999,Diseases of the genitourinary system,N00-N98,19822,99164460,20
+Census Region 3: South,CENS-R3,1999,1999,"Pregnancy, childbirth and the puerperium",O00-O99,194,99164460,0.2
+Census Region 3: South,CENS-R3,1999,1999,Certain conditions originating in the perinatal period,P00-P96,5741,99164460,5.8
+Census Region 3: South,CENS-R3,1999,1999,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3821,99164460,3.9
+Census Region 3: South,CENS-R3,1999,1999,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,12060,99164460,12.2
+Census Region 3: South,CENS-R3,1999,1999,External causes of morbidity and mortality,V01-Y89,60682,99164460,61.2
+Census Region 3: South,CENS-R3,2000,2000,Certain infectious and parasitic diseases,A00-B99,24569,100236820,24.5
+Census Region 3: South,CENS-R3,2000,2000,Neoplasms,C00-D48,206632,100236820,206.1
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3759,100236820,3.8
+Census Region 3: South,CENS-R3,2000,2000,"Endocrine, nutritional and metabolic diseases",E00-E88,36530,100236820,36.4
+Census Region 3: South,CENS-R3,2000,2000,Mental and behavioural disorders,F01-F99,16728,100236820,16.7
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the nervous system,G00-G98,32507,100236820,32.4
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the eye and adnexa,H00-H57,23,100236820,0
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the ear and mastoid process,H60-H93,28,100236820,0
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the circulatory system,I00-I99,346033,100236820,345.2
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the respiratory system,J00-J98,83808,100236820,83.6
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the digestive system,K00-K92,30768,100236820,30.7
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the skin and subcutaneous tissue,L00-L98,1591,100236820,1.6
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the musculoskeletal system and connective tissue,M00-M99,5051,100236820,5
+Census Region 3: South,CENS-R3,2000,2000,Diseases of the genitourinary system,N00-N98,20699,100236820,20.7
+Census Region 3: South,CENS-R3,2000,2000,"Pregnancy, childbirth and the puerperium",O00-O99,172,100236820,0.2
+Census Region 3: South,CENS-R3,2000,2000,Certain conditions originating in the perinatal period,P00-P96,5639,100236820,5.6
+Census Region 3: South,CENS-R3,2000,2000,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3959,100236820,3.9
+Census Region 3: South,CENS-R3,2000,2000,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13297,100236820,13.3
+Census Region 3: South,CENS-R3,2000,2000,External causes of morbidity and mortality,V01-Y89,62219,100236820,62.1
+Census Region 3: South,CENS-R3,2001,2001,Certain infectious and parasitic diseases,A00-B99,25252,101849575,24.8
+Census Region 3: South,CENS-R3,2001,2001,Neoplasms,C00-D48,207387,101849575,203.6
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3802,101849575,3.7
+Census Region 3: South,CENS-R3,2001,2001,"Endocrine, nutritional and metabolic diseases",E00-E88,37468,101849575,36.8
+Census Region 3: South,CENS-R3,2001,2001,Mental and behavioural disorders,F01-F99,18290,101849575,18
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the nervous system,G00-G98,34948,101849575,34.3
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the eye and adnexa,H00-H57,15,101849575,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the ear and mastoid process,H60-H93,26,101849575,0
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the circulatory system,I00-I99,341095,101849575,334.9
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the respiratory system,J00-J98,83937,101849575,82.4
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the digestive system,K00-K92,31404,101849575,30.8
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the skin and subcutaneous tissue,L00-L98,1527,101849575,1.5
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the musculoskeletal system and connective tissue,M00-M99,5042,101849575,5
+Census Region 3: South,CENS-R3,2001,2001,Diseases of the genitourinary system,N00-N98,22004,101849575,21.6
+Census Region 3: South,CENS-R3,2001,2001,"Pregnancy, childbirth and the puerperium",O00-O99,187,101849575,0.2
+Census Region 3: South,CENS-R3,2001,2001,Certain conditions originating in the perinatal period,P00-P96,5695,101849575,5.6
+Census Region 3: South,CENS-R3,2001,2001,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3954,101849575,3.9
+Census Region 3: South,CENS-R3,2001,2001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,12011,101849575,11.8
+Census Region 3: South,CENS-R3,2001,2001,Codes for special purposes,U00-U99,184,101849575,0.2
+Census Region 3: South,CENS-R3,2001,2001,External causes of morbidity and mortality,V01-Y89,64785,101849575,63.6
+Census Region 3: South,CENS-R3,2002,2002,Certain infectious and parasitic diseases,A00-B99,27037,103150787,26.2
+Census Region 3: South,CENS-R3,2002,2002,Neoplasms,C00-D48,208882,103150787,202.5
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3813,103150787,3.7
+Census Region 3: South,CENS-R3,2002,2002,"Endocrine, nutritional and metabolic diseases",E00-E88,38440,103150787,37.3
+Census Region 3: South,CENS-R3,2002,2002,Mental and behavioural disorders,F01-F99,20210,103150787,19.6
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the nervous system,G00-G98,37166,103150787,36
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the eye and adnexa,H00-H57,14,103150787,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the ear and mastoid process,H60-H93,29,103150787,0
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the circulatory system,I00-I99,339696,103150787,329.3
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the respiratory system,J00-J98,85687,103150787,83.1
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the digestive system,K00-K92,31817,103150787,30.8
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the skin and subcutaneous tissue,L00-L98,1651,103150787,1.6
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the musculoskeletal system and connective tissue,M00-M99,5173,103150787,5
+Census Region 3: South,CENS-R3,2002,2002,Diseases of the genitourinary system,N00-N98,22225,103150787,21.5
+Census Region 3: South,CENS-R3,2002,2002,"Pregnancy, childbirth and the puerperium",O00-O99,175,103150787,0.2
+Census Region 3: South,CENS-R3,2002,2002,Certain conditions originating in the perinatal period,P00-P96,5819,103150787,5.6
+Census Region 3: South,CENS-R3,2002,2002,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3980,103150787,3.9
+Census Region 3: South,CENS-R3,2002,2002,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13335,103150787,12.9
+Census Region 3: South,CENS-R3,2002,2002,External causes of morbidity and mortality,V01-Y89,66519,103150787,64.5
+Census Region 3: South,CENS-R3,2003,2003,Certain infectious and parasitic diseases,A00-B99,27716,104380188,26.6
+Census Region 3: South,CENS-R3,2003,2003,Neoplasms,C00-D48,208931,104380188,200.2
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3830,104380188,3.7
+Census Region 3: South,CENS-R3,2003,2003,"Endocrine, nutritional and metabolic diseases",E00-E88,39123,104380188,37.5
+Census Region 3: South,CENS-R3,2003,2003,Mental and behavioural disorders,F01-F99,21854,104380188,20.9
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the nervous system,G00-G98,39652,104380188,38
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the eye and adnexa,H00-H57,16,104380188,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the ear and mastoid process,H60-H93,28,104380188,0
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the circulatory system,I00-I99,334160,104380188,320.1
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the respiratory system,J00-J98,86715,104380188,83.1
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the digestive system,K00-K92,32524,104380188,31.2
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the skin and subcutaneous tissue,L00-L98,1725,104380188,1.7
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the musculoskeletal system and connective tissue,M00-M99,5242,104380188,5
+Census Region 3: South,CENS-R3,2003,2003,Diseases of the genitourinary system,N00-N98,23298,104380188,22.3
+Census Region 3: South,CENS-R3,2003,2003,"Pregnancy, childbirth and the puerperium",O00-O99,235,104380188,0.2
+Census Region 3: South,CENS-R3,2003,2003,Certain conditions originating in the perinatal period,P00-P96,5930,104380188,5.7
+Census Region 3: South,CENS-R3,2003,2003,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,4015,104380188,3.8
+Census Region 3: South,CENS-R3,2003,2003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13645,104380188,13.1
+Census Region 3: South,CENS-R3,2003,2003,External causes of morbidity and mortality,V01-Y89,68784,104380188,65.9
+Census Region 3: South,CENS-R3,2004,2004,Certain infectious and parasitic diseases,A00-B99,27605,105883977,26.1
+Census Region 3: South,CENS-R3,2004,2004,Neoplasms,C00-D48,209327,105883977,197.7
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3834,105883977,3.6
+Census Region 3: South,CENS-R3,2004,2004,"Endocrine, nutritional and metabolic diseases",E00-E88,38640,105883977,36.5
+Census Region 3: South,CENS-R3,2004,2004,Mental and behavioural disorders,F01-F99,22629,105883977,21.4
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the nervous system,G00-G98,40782,105883977,38.5
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the eye and adnexa,H00-H57,12,105883977,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the ear and mastoid process,H60-H93,25,105883977,0
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the circulatory system,I00-I99,320358,105883977,302.6
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the respiratory system,J00-J98,83083,105883977,78.5
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the digestive system,K00-K92,32110,105883977,30.3
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the skin and subcutaneous tissue,L00-L98,1764,105883977,1.7
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the musculoskeletal system and connective tissue,M00-M99,5302,105883977,5
+Census Region 3: South,CENS-R3,2004,2004,Diseases of the genitourinary system,N00-N98,23362,105883977,22.1
+Census Region 3: South,CENS-R3,2004,2004,"Pregnancy, childbirth and the puerperium",O00-O99,226,105883977,0.2
+Census Region 3: South,CENS-R3,2004,2004,Certain conditions originating in the perinatal period,P00-P96,5936,105883977,5.6
+Census Region 3: South,CENS-R3,2004,2004,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3971,105883977,3.8
+Census Region 3: South,CENS-R3,2004,2004,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13849,105883977,13.1
+Census Region 3: South,CENS-R3,2004,2004,External causes of morbidity and mortality,V01-Y89,70406,105883977,66.5
+Census Region 3: South,CENS-R3,2005,2005,Certain infectious and parasitic diseases,A00-B99,28327,107479771,26.4
+Census Region 3: South,CENS-R3,2005,2005,Neoplasms,C00-D48,212665,107479771,197.9
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3870,107479771,3.6
+Census Region 3: South,CENS-R3,2005,2005,"Endocrine, nutritional and metabolic diseases",E00-E88,40139,107479771,37.3
+Census Region 3: South,CENS-R3,2005,2005,Mental and behavioural disorders,F01-F99,26041,107479771,24.2
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the nervous system,G00-G98,44284,107479771,41.2
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the eye and adnexa,H00-H57,18,107479771,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the ear and mastoid process,H60-H93,32,107479771,0
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the circulatory system,I00-I99,319406,107479771,297.2
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the respiratory system,J00-J98,87955,107479771,81.8
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the digestive system,K00-K92,32684,107479771,30.4
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the skin and subcutaneous tissue,L00-L98,1725,107479771,1.6
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the musculoskeletal system and connective tissue,M00-M99,5142,107479771,4.8
+Census Region 3: South,CENS-R3,2005,2005,Diseases of the genitourinary system,N00-N98,24632,107479771,22.9
+Census Region 3: South,CENS-R3,2005,2005,"Pregnancy, childbirth and the puerperium",O00-O99,323,107479771,0.3
+Census Region 3: South,CENS-R3,2005,2005,Certain conditions originating in the perinatal period,P00-P96,6115,107479771,5.7
+Census Region 3: South,CENS-R3,2005,2005,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3900,107479771,3.6
+Census Region 3: South,CENS-R3,2005,2005,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,14742,107479771,13.7
+Census Region 3: South,CENS-R3,2005,2005,External causes of morbidity and mortality,V01-Y89,73170,107479771,68.1
+Census Region 3: South,CENS-R3,2006,2006,Certain infectious and parasitic diseases,A00-B99,28636,109076933,26.3
+Census Region 3: South,CENS-R3,2006,2006,Neoplasms,C00-D48,213733,109076933,195.9
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3670,109076933,3.4
+Census Region 3: South,CENS-R3,2006,2006,"Endocrine, nutritional and metabolic diseases",E00-E88,38375,109076933,35.2
+Census Region 3: South,CENS-R3,2006,2006,Mental and behavioural disorders,F01-F99,34461,109076933,31.6
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the nervous system,G00-G98,45285,109076933,41.5
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the eye and adnexa,H00-H57,20,109076933,0
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the ear and mastoid process,H60-H93,25,109076933,0
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the circulatory system,I00-I99,306738,109076933,281.2
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the respiratory system,J00-J98,83561,109076933,76.6
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the digestive system,K00-K92,32540,109076933,29.8
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the skin and subcutaneous tissue,L00-L98,1594,109076933,1.5
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the musculoskeletal system and connective tissue,M00-M99,4995,109076933,4.6
+Census Region 3: South,CENS-R3,2006,2006,Diseases of the genitourinary system,N00-N98,25150,109076933,23.1
+Census Region 3: South,CENS-R3,2006,2006,"Pregnancy, childbirth and the puerperium",O00-O99,286,109076933,0.3
+Census Region 3: South,CENS-R3,2006,2006,Certain conditions originating in the perinatal period,P00-P96,6144,109076933,5.6
+Census Region 3: South,CENS-R3,2006,2006,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,4019,109076933,3.7
+Census Region 3: South,CENS-R3,2006,2006,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,14919,109076933,13.7
+Census Region 3: South,CENS-R3,2006,2006,External causes of morbidity and mortality,V01-Y89,74696,109076933,68.5
+Census Region 3: South,CENS-R3,2007,2007,Certain infectious and parasitic diseases,A00-B99,28599,110688742,25.8
+Census Region 3: South,CENS-R3,2007,2007,Neoplasms,C00-D48,215086,110688742,194.3
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,3923,110688742,3.5
+Census Region 3: South,CENS-R3,2007,2007,"Endocrine, nutritional and metabolic diseases",E00-E88,38105,110688742,34.4
+Census Region 3: South,CENS-R3,2007,2007,Mental and behavioural disorders,F01-F99,34248,110688742,30.9
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the nervous system,G00-G98,46966,110688742,42.4
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the eye and adnexa,H00-H57,14,110688742,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the ear and mastoid process,H60-H93,23,110688742,0
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the circulatory system,I00-I99,302111,110688742,272.9
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the respiratory system,J00-J98,85570,110688742,77.3
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the digestive system,K00-K92,33272,110688742,30.1
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the skin and subcutaneous tissue,L00-L98,1546,110688742,1.4
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the musculoskeletal system and connective tissue,M00-M99,4985,110688742,4.5
+Census Region 3: South,CENS-R3,2007,2007,Diseases of the genitourinary system,N00-N98,26198,110688742,23.7
+Census Region 3: South,CENS-R3,2007,2007,"Pregnancy, childbirth and the puerperium",O00-O99,297,110688742,0.3
+Census Region 3: South,CENS-R3,2007,2007,Certain conditions originating in the perinatal period,P00-P96,6127,110688742,5.5
+Census Region 3: South,CENS-R3,2007,2007,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,4033,110688742,3.6
+Census Region 3: South,CENS-R3,2007,2007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,16518,110688742,14.9
+Census Region 3: South,CENS-R3,2007,2007,External causes of morbidity and mortality,V01-Y89,76739,110688742,69.3
+Census Region 3: South,CENS-R3,2008,2008,Certain infectious and parasitic diseases,A00-B99,29278,112184930,26.1
+Census Region 3: South,CENS-R3,2008,2008,Neoplasms,C00-D48,217291,112184930,193.7
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4063,112184930,3.6
+Census Region 3: South,CENS-R3,2008,2008,"Endocrine, nutritional and metabolic diseases",E00-E88,38534,112184930,34.3
+Census Region 3: South,CENS-R3,2008,2008,Mental and behavioural disorders,F01-F99,39725,112184930,35.4
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the nervous system,G00-G98,49667,112184930,44.3
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the eye and adnexa,H00-H57,20,112184930,0
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the ear and mastoid process,H60-H93,39,112184930,0
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the circulatory system,I00-I99,301027,112184930,268.3
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the respiratory system,J00-J98,92125,112184930,82.1
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the digestive system,K00-K92,34175,112184930,30.5
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the skin and subcutaneous tissue,L00-L98,1633,112184930,1.5
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the musculoskeletal system and connective tissue,M00-M99,4944,112184930,4.4
+Census Region 3: South,CENS-R3,2008,2008,Diseases of the genitourinary system,N00-N98,25774,112184930,23
+Census Region 3: South,CENS-R3,2008,2008,"Pregnancy, childbirth and the puerperium",O00-O99,320,112184930,0.3
+Census Region 3: South,CENS-R3,2008,2008,Certain conditions originating in the perinatal period,P00-P96,5869,112184930,5.2
+Census Region 3: South,CENS-R3,2008,2008,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3889,112184930,3.5
+Census Region 3: South,CENS-R3,2008,2008,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,20321,112184930,18.1
+Census Region 3: South,CENS-R3,2008,2008,External causes of morbidity and mortality,V01-Y89,75842,112184930,67.6
+Census Region 3: South,CENS-R3,2009,2009,Certain infectious and parasitic diseases,A00-B99,29831,113548615,26.3
+Census Region 3: South,CENS-R3,2009,2009,Neoplasms,C00-D48,218467,113548615,192.4
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4027,113548615,3.5
+Census Region 3: South,CENS-R3,2009,2009,"Endocrine, nutritional and metabolic diseases",E00-E88,38297,113548615,33.7
+Census Region 3: South,CENS-R3,2009,2009,Mental and behavioural disorders,F01-F99,40825,113548615,36
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the nervous system,G00-G98,49291,113548615,43.4
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the eye and adnexa,H00-H57,17,113548615,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the ear and mastoid process,H60-H93,17,113548615,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the circulatory system,I00-I99,295534,113548615,260.3
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the respiratory system,J00-J98,91133,113548615,80.3
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the digestive system,K00-K92,33565,113548615,29.6
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the skin and subcutaneous tissue,L00-L98,1630,113548615,1.4
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the musculoskeletal system and connective tissue,M00-M99,4914,113548615,4.3
+Census Region 3: South,CENS-R3,2009,2009,Diseases of the genitourinary system,N00-N98,26234,113548615,23.1
+Census Region 3: South,CENS-R3,2009,2009,"Pregnancy, childbirth and the puerperium",O00-O99,406,113548615,0.4
+Census Region 3: South,CENS-R3,2009,2009,Certain conditions originating in the perinatal period,P00-P96,5522,113548615,4.9
+Census Region 3: South,CENS-R3,2009,2009,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3842,113548615,3.4
+Census Region 3: South,CENS-R3,2009,2009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,18220,113548615,16
+Census Region 3: South,CENS-R3,2009,2009,External causes of morbidity and mortality,V01-Y89,74898,113548615,66
+Census Region 3: South,CENS-R3,2010,2010,Certain infectious and parasitic diseases,A00-B99,28608,114555744,25
+Census Region 3: South,CENS-R3,2010,2010,Neoplasms,C00-D48,221766,114555744,193.6
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4033,114555744,3.5
+Census Region 3: South,CENS-R3,2010,2010,"Endocrine, nutritional and metabolic diseases",E00-E88,38701,114555744,33.8
+Census Region 3: South,CENS-R3,2010,2010,Mental and behavioural disorders,F01-F99,47055,114555744,41.1
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the nervous system,G00-G98,51860,114555744,45.3
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the eye and adnexa,H00-H57,22,114555744,0
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the ear and mastoid process,H60-H93,28,114555744,0
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the circulatory system,I00-I99,296913,114555744,259.2
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the respiratory system,J00-J98,91929,114555744,80.2
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the digestive system,K00-K92,34611,114555744,30.2
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the skin and subcutaneous tissue,L00-L98,1555,114555744,1.4
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the musculoskeletal system and connective tissue,M00-M99,4782,114555744,4.2
+Census Region 3: South,CENS-R3,2010,2010,Diseases of the genitourinary system,N00-N98,27288,114555744,23.8
+Census Region 3: South,CENS-R3,2010,2010,"Pregnancy, childbirth and the puerperium",O00-O99,343,114555744,0.3
+Census Region 3: South,CENS-R3,2010,2010,Certain conditions originating in the perinatal period,P00-P96,4981,114555744,4.3
+Census Region 3: South,CENS-R3,2010,2010,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3684,114555744,3.2
+Census Region 3: South,CENS-R3,2010,2010,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,19381,114555744,16.9
+Census Region 3: South,CENS-R3,2010,2010,External causes of morbidity and mortality,V01-Y89,75114,114555744,65.6
+Census Region 3: South,CENS-R3,2011,2011,Certain infectious and parasitic diseases,A00-B99,29220,116061801,25.2
+Census Region 3: South,CENS-R3,2011,2011,Neoplasms,C00-D48,223658,116061801,192.7
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4216,116061801,3.6
+Census Region 3: South,CENS-R3,2011,2011,"Endocrine, nutritional and metabolic diseases",E00-E88,40567,116061801,35
+Census Region 3: South,CENS-R3,2011,2011,Mental and behavioural disorders,F01-F99,52605,116061801,45.3
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the nervous system,G00-G98,53107,116061801,45.8
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the eye and adnexa,H00-H57,17,116061801,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the ear and mastoid process,H60-H93,26,116061801,0
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the circulatory system,I00-I99,292822,116061801,252.3
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the respiratory system,J00-J98,94443,116061801,81.4
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the digestive system,K00-K92,35484,116061801,30.6
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the skin and subcutaneous tissue,L00-L98,1560,116061801,1.3
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the musculoskeletal system and connective tissue,M00-M99,4790,116061801,4.1
+Census Region 3: South,CENS-R3,2011,2011,Diseases of the genitourinary system,N00-N98,25214,116061801,21.7
+Census Region 3: South,CENS-R3,2011,2011,"Pregnancy, childbirth and the puerperium",O00-O99,390,116061801,0.3
+Census Region 3: South,CENS-R3,2011,2011,Certain conditions originating in the perinatal period,P00-P96,5036,116061801,4.3
+Census Region 3: South,CENS-R3,2011,2011,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3759,116061801,3.2
+Census Region 3: South,CENS-R3,2011,2011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,19717,116061801,17
+Census Region 3: South,CENS-R3,2011,2011,External causes of morbidity and mortality,V01-Y89,76881,116061801,66.2
+Census Region 3: South,CENS-R3,2012,2012,Certain infectious and parasitic diseases,A00-B99,29490,117299171,25.1
+Census Region 3: South,CENS-R3,2012,2012,Neoplasms,C00-D48,226686,117299171,193.3
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4392,117299171,3.7
+Census Region 3: South,CENS-R3,2012,2012,"Endocrine, nutritional and metabolic diseases",E00-E88,41103,117299171,35
+Census Region 3: South,CENS-R3,2012,2012,Mental and behavioural disorders,F01-F99,58592,117299171,50
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the nervous system,G00-G98,53627,117299171,45.7
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the eye and adnexa,H00-H57,22,117299171,0
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the ear and mastoid process,H60-H93,24,117299171,0
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the circulatory system,I00-I99,298201,117299171,254.2
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the respiratory system,J00-J98,95180,117299171,81.1
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the digestive system,K00-K92,36803,117299171,31.4
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the skin and subcutaneous tissue,L00-L98,1645,117299171,1.4
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the musculoskeletal system and connective tissue,M00-M99,4822,117299171,4.1
+Census Region 3: South,CENS-R3,2012,2012,Diseases of the genitourinary system,N00-N98,25753,117299171,22
+Census Region 3: South,CENS-R3,2012,2012,"Pregnancy, childbirth and the puerperium",O00-O99,459,117299171,0.4
+Census Region 3: South,CENS-R3,2012,2012,Certain conditions originating in the perinatal period,P00-P96,4929,117299171,4.2
+Census Region 3: South,CENS-R3,2012,2012,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3778,117299171,3.2
+Census Region 3: South,CENS-R3,2012,2012,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,20201,117299171,17.2
+Census Region 3: South,CENS-R3,2012,2012,External causes of morbidity and mortality,V01-Y89,77994,117299171,66.5
+Census Region 3: South,CENS-R3,2013,2013,Certain infectious and parasitic diseases,A00-B99,30689,118424320,25.9
+Census Region 3: South,CENS-R3,2013,2013,Neoplasms,C00-D48,229102,118424320,193.5
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4273,118424320,3.6
+Census Region 3: South,CENS-R3,2013,2013,"Endocrine, nutritional and metabolic diseases",E00-E88,42442,118424320,35.8
+Census Region 3: South,CENS-R3,2013,2013,Mental and behavioural disorders,F01-F99,62395,118424320,52.7
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the nervous system,G00-G98,55844,118424320,47.2
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the eye and adnexa,H00-H57,10,118424320,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the ear and mastoid process,H60-H93,27,118424320,0
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the circulatory system,I00-I99,304528,118424320,257.1
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the respiratory system,J00-J98,101160,118424320,85.4
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the digestive system,K00-K92,37670,118424320,31.8
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the skin and subcutaneous tissue,L00-L98,1733,118424320,1.5
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the musculoskeletal system and connective tissue,M00-M99,4846,118424320,4.1
+Census Region 3: South,CENS-R3,2013,2013,Diseases of the genitourinary system,N00-N98,26895,118424320,22.7
+Census Region 3: South,CENS-R3,2013,2013,"Pregnancy, childbirth and the puerperium",O00-O99,554,118424320,0.5
+Census Region 3: South,CENS-R3,2013,2013,Certain conditions originating in the perinatal period,P00-P96,5044,118424320,4.3
+Census Region 3: South,CENS-R3,2013,2013,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3711,118424320,3.1
+Census Region 3: South,CENS-R3,2013,2013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,17566,118424320,14.8
+Census Region 3: South,CENS-R3,2013,2013,External causes of morbidity and mortality,V01-Y89,77887,118424320,65.8
+Census Region 3: South,CENS-R3,2014,2014,Certain infectious and parasitic diseases,A00-B99,31049,119696311,25.9
+Census Region 3: South,CENS-R3,2014,2014,Neoplasms,C00-D48,232737,119696311,194.4
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4479,119696311,3.7
+Census Region 3: South,CENS-R3,2014,2014,"Endocrine, nutritional and metabolic diseases",E00-E88,43766,119696311,36.6
+Census Region 3: South,CENS-R3,2014,2014,Mental and behavioural disorders,F01-F99,58191,119696311,48.6
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the nervous system,G00-G98,63202,119696311,52.8
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the eye and adnexa,H00-H57,13,119696311,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the ear and mastoid process,H60-H93,18,119696311,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the circulatory system,I00-I99,312350,119696311,261
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the respiratory system,J00-J98,101553,119696311,84.8
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the digestive system,K00-K92,39062,119696311,32.6
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the skin and subcutaneous tissue,L00-L98,1718,119696311,1.4
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the musculoskeletal system and connective tissue,M00-M99,4770,119696311,4
+Census Region 3: South,CENS-R3,2014,2014,Diseases of the genitourinary system,N00-N98,27607,119696311,23.1
+Census Region 3: South,CENS-R3,2014,2014,"Pregnancy, childbirth and the puerperium",O00-O99,539,119696311,0.5
+Census Region 3: South,CENS-R3,2014,2014,Certain conditions originating in the perinatal period,P00-P96,5065,119696311,4.2
+Census Region 3: South,CENS-R3,2014,2014,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3806,119696311,3.2
+Census Region 3: South,CENS-R3,2014,2014,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,14339,119696311,12
+Census Region 3: South,CENS-R3,2014,2014,External causes of morbidity and mortality,V01-Y89,81017,119696311,67.7
+Census Region 3: South,CENS-R3,2015,2015,Certain infectious and parasitic diseases,A00-B99,31698,121039206,26.2
+Census Region 3: South,CENS-R3,2015,2015,Neoplasms,C00-D48,234788,121039206,194
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4484,121039206,3.7
+Census Region 3: South,CENS-R3,2015,2015,"Endocrine, nutritional and metabolic diseases",E00-E88,46222,121039206,38.2
+Census Region 3: South,CENS-R3,2015,2015,Mental and behavioural disorders,F01-F99,48669,121039206,40.2
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the nervous system,G00-G98,75648,121039206,62.5
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the eye and adnexa,H00-H57,12,121039206,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the ear and mastoid process,H60-H93,27,121039206,0
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the circulatory system,I00-I99,324138,121039206,267.8
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the respiratory system,J00-J98,105947,121039206,87.5
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the digestive system,K00-K92,40304,121039206,33.3
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the skin and subcutaneous tissue,L00-L98,1902,121039206,1.6
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the musculoskeletal system and connective tissue,M00-M99,5063,121039206,4.2
+Census Region 3: South,CENS-R3,2015,2015,Diseases of the genitourinary system,N00-N98,28941,121039206,23.9
+Census Region 3: South,CENS-R3,2015,2015,"Pregnancy, childbirth and the puerperium",O00-O99,582,121039206,0.5
+Census Region 3: South,CENS-R3,2015,2015,Certain conditions originating in the perinatal period,P00-P96,5095,121039206,4.2
+Census Region 3: South,CENS-R3,2015,2015,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3885,121039206,3.2
+Census Region 3: South,CENS-R3,2015,2015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13741,121039206,11.4
+Census Region 3: South,CENS-R3,2015,2015,External causes of morbidity and mortality,V01-Y89,87123,121039206,72
+Census Region 3: South,CENS-R3,2016,2016,Certain infectious and parasitic diseases,A00-B99,31016,122319574,25.4
+Census Region 3: South,CENS-R3,2016,2016,Neoplasms,C00-D48,236793,122319574,193.6
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,4649,122319574,3.8
+Census Region 3: South,CENS-R3,2016,2016,"Endocrine, nutritional and metabolic diseases",E00-E88,47848,122319574,39.1
+Census Region 3: South,CENS-R3,2016,2016,Mental and behavioural disorders,F01-F99,46538,122319574,38
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the nervous system,G00-G98,81300,122319574,66.5
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the eye and adnexa,H00-H57,17,122319574,0.0 (Unreliable)
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the ear and mastoid process,H60-H93,31,122319574,0
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the circulatory system,I00-I99,327099,122319574,267.4
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the respiratory system,J00-J98,105342,122319574,86.1
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the digestive system,K00-K92,41119,122319574,33.6
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the skin and subcutaneous tissue,L00-L98,1859,122319574,1.5
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the musculoskeletal system and connective tissue,M00-M99,5019,122319574,4.1
+Census Region 3: South,CENS-R3,2016,2016,Diseases of the genitourinary system,N00-N98,29591,122319574,24.2
+Census Region 3: South,CENS-R3,2016,2016,"Pregnancy, childbirth and the puerperium",O00-O99,604,122319574,0.5
+Census Region 3: South,CENS-R3,2016,2016,Certain conditions originating in the perinatal period,P00-P96,4980,122319574,4.1
+Census Region 3: South,CENS-R3,2016,2016,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,3941,122319574,3.2
+Census Region 3: South,CENS-R3,2016,2016,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,13790,122319574,11.3
+Census Region 3: South,CENS-R3,2016,2016,External causes of morbidity and mortality,V01-Y89,94935,122319574,77.6
+Census Region 4: West,CENS-R4,1999,1999,Certain infectious and parasitic diseases,A00-B99,8531,62431872,13.7
+Census Region 4: West,CENS-R4,1999,1999,Neoplasms,C00-D48,104150,62431872,166.8
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1324,62431872,2.1
+Census Region 4: West,CENS-R4,1999,1999,"Endocrine, nutritional and metabolic diseases",E00-E88,16441,62431872,26.3
+Census Region 4: West,CENS-R4,1999,1999,Mental and behavioural disorders,F01-F99,8178,62431872,13.1
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the nervous system,G00-G98,17917,62431872,28.7
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the ear and mastoid process,H60-H93,20,62431872,0
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the circulatory system,I00-I99,173406,62431872,277.8
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the respiratory system,J00-J98,43269,62431872,69.3
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the digestive system,K00-K92,16873,62431872,27
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the skin and subcutaneous tissue,L00-L98,527,62431872,0.8
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the musculoskeletal system and connective tissue,M00-M99,2875,62431872,4.6
+Census Region 4: West,CENS-R4,1999,1999,Diseases of the genitourinary system,N00-N98,8294,62431872,13.3
+Census Region 4: West,CENS-R4,1999,1999,"Pregnancy, childbirth and the puerperium",O00-O99,75,62431872,0.1
+Census Region 4: West,CENS-R4,1999,1999,Certain conditions originating in the perinatal period,P00-P96,2554,62431872,4.1
+Census Region 4: West,CENS-R4,1999,1999,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2444,62431872,3.9
+Census Region 4: West,CENS-R4,1999,1999,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,3771,62431872,6
+Census Region 4: West,CENS-R4,1999,1999,External causes of morbidity and mortality,V01-Y89,32718,62431872,52.4
+Census Region 4: West,CENS-R4,2000,2000,Certain infectious and parasitic diseases,A00-B99,8155,63197932,12.9
+Census Region 4: West,CENS-R4,2000,2000,Neoplasms,C00-D48,104820,63197932,165.9
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1267,63197932,2
+Census Region 4: West,CENS-R4,2000,2000,"Endocrine, nutritional and metabolic diseases",E00-E88,16043,63197932,25.4
+Census Region 4: West,CENS-R4,2000,2000,Mental and behavioural disorders,F01-F99,8578,63197932,13.6
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the nervous system,G00-G98,18549,63197932,29.4
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the eye and adnexa,H00-H57,14,63197932,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the ear and mastoid process,H60-H93,14,63197932,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the circulatory system,I00-I99,168850,63197932,267.2
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the respiratory system,J00-J98,45899,63197932,72.6
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the digestive system,K00-K92,17337,63197932,27.4
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the skin and subcutaneous tissue,L00-L98,538,63197932,0.9
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the musculoskeletal system and connective tissue,M00-M99,2858,63197932,4.5
+Census Region 4: West,CENS-R4,2000,2000,Diseases of the genitourinary system,N00-N98,7948,63197932,12.6
+Census Region 4: West,CENS-R4,2000,2000,"Pregnancy, childbirth and the puerperium",O00-O99,96,63197932,0.2
+Census Region 4: West,CENS-R4,2000,2000,Certain conditions originating in the perinatal period,P00-P96,2582,63197932,4.1
+Census Region 4: West,CENS-R4,2000,2000,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2430,63197932,3.8
+Census Region 4: West,CENS-R4,2000,2000,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6402,63197932,10.1
+Census Region 4: West,CENS-R4,2000,2000,External causes of morbidity and mortality,V01-Y89,32285,63197932,51.1
+Census Region 4: West,CENS-R4,2001,2001,Certain infectious and parasitic diseases,A00-B99,8610,64427327,13.4
+Census Region 4: West,CENS-R4,2001,2001,Neoplasms,C00-D48,106294,64427327,165
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1370,64427327,2.1
+Census Region 4: West,CENS-R4,2001,2001,"Endocrine, nutritional and metabolic diseases",E00-E88,16738,64427327,26
+Census Region 4: West,CENS-R4,2001,2001,Mental and behavioural disorders,F01-F99,9485,64427327,14.7
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the nervous system,G00-G98,19856,64427327,30.8
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the ear and mastoid process,H60-H93,15,64427327,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the circulatory system,I00-I99,169200,64427327,262.6
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the respiratory system,J00-J98,46702,64427327,72.5
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the digestive system,K00-K92,17813,64427327,27.6
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the skin and subcutaneous tissue,L00-L98,506,64427327,0.8
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the musculoskeletal system and connective tissue,M00-M99,3012,64427327,4.7
+Census Region 4: West,CENS-R4,2001,2001,Diseases of the genitourinary system,N00-N98,8375,64427327,13
+Census Region 4: West,CENS-R4,2001,2001,"Pregnancy, childbirth and the puerperium",O00-O99,93,64427327,0.1
+Census Region 4: West,CENS-R4,2001,2001,Certain conditions originating in the perinatal period,P00-P96,2537,64427327,3.9
+Census Region 4: West,CENS-R4,2001,2001,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2462,64427327,3.8
+Census Region 4: West,CENS-R4,2001,2001,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,9075,64427327,14.1
+Census Region 4: West,CENS-R4,2001,2001,Codes for special purposes,U00-U99,56,64427327,0.1
+Census Region 4: West,CENS-R4,2001,2001,External causes of morbidity and mortality,V01-Y89,32482,64427327,50.4
+Census Region 4: West,CENS-R4,2002,2002,Certain infectious and parasitic diseases,A00-B99,9060,65312198,13.9
+Census Region 4: West,CENS-R4,2002,2002,Neoplasms,C00-D48,107501,65312198,164.6
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1413,65312198,2.2
+Census Region 4: West,CENS-R4,2002,2002,"Endocrine, nutritional and metabolic diseases",E00-E88,17919,65312198,27.4
+Census Region 4: West,CENS-R4,2002,2002,Mental and behavioural disorders,F01-F99,10629,65312198,16.3
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the nervous system,G00-G98,21636,65312198,33.1
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the ear and mastoid process,H60-H93,22,65312198,0
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the circulatory system,I00-I99,170342,65312198,260.8
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the respiratory system,J00-J98,47210,65312198,72.3
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the digestive system,K00-K92,18218,65312198,27.9
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the skin and subcutaneous tissue,L00-L98,599,65312198,0.9
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the musculoskeletal system and connective tissue,M00-M99,3074,65312198,4.7
+Census Region 4: West,CENS-R4,2002,2002,Diseases of the genitourinary system,N00-N98,8287,65312198,12.7
+Census Region 4: West,CENS-R4,2002,2002,"Pregnancy, childbirth and the puerperium",O00-O99,93,65312198,0.1
+Census Region 4: West,CENS-R4,2002,2002,Certain conditions originating in the perinatal period,P00-P96,2687,65312198,4.1
+Census Region 4: West,CENS-R4,2002,2002,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2484,65312198,3.8
+Census Region 4: West,CENS-R4,2002,2002,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4034,65312198,6.2
+Census Region 4: West,CENS-R4,2002,2002,External causes of morbidity and mortality,V01-Y89,36654,65312198,56.1
+Census Region 4: West,CENS-R4,2003,2003,Certain infectious and parasitic diseases,A00-B99,9437,66116338,14.3
+Census Region 4: West,CENS-R4,2003,2003,Neoplasms,C00-D48,108907,66116338,164.7
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1387,66116338,2.1
+Census Region 4: West,CENS-R4,2003,2003,"Endocrine, nutritional and metabolic diseases",E00-E88,18201,66116338,27.5
+Census Region 4: West,CENS-R4,2003,2003,Mental and behavioural disorders,F01-F99,11443,66116338,17.3
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the nervous system,G00-G98,24008,66116338,36.3
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the ear and mastoid process,H60-H93,14,66116338,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the circulatory system,I00-I99,170555,66116338,258
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the respiratory system,J00-J98,48324,66116338,73.1
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the digestive system,K00-K92,18499,66116338,28
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the skin and subcutaneous tissue,L00-L98,616,66116338,0.9
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the musculoskeletal system and connective tissue,M00-M99,3154,66116338,4.8
+Census Region 4: West,CENS-R4,2003,2003,Diseases of the genitourinary system,N00-N98,8687,66116338,13.1
+Census Region 4: West,CENS-R4,2003,2003,"Pregnancy, childbirth and the puerperium",O00-O99,138,66116338,0.2
+Census Region 4: West,CENS-R4,2003,2003,Certain conditions originating in the perinatal period,P00-P96,2715,66116338,4.1
+Census Region 4: West,CENS-R4,2003,2003,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2406,66116338,3.6
+Census Region 4: West,CENS-R4,2003,2003,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4125,66116338,6.2
+Census Region 4: West,CENS-R4,2003,2003,External causes of morbidity and mortality,V01-Y89,37729,66116338,57.1
+Census Region 4: West,CENS-R4,2004,2004,Certain infectious and parasitic diseases,A00-B99,9635,66965483,14.4
+Census Region 4: West,CENS-R4,2004,2004,Neoplasms,C00-D48,107794,66965483,161
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1304,66965483,1.9
+Census Region 4: West,CENS-R4,2004,2004,"Endocrine, nutritional and metabolic diseases",E00-E88,18238,66965483,27.2
+Census Region 4: West,CENS-R4,2004,2004,Mental and behavioural disorders,F01-F99,11253,66965483,16.8
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the nervous system,G00-G98,24232,66965483,36.2
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the eye and adnexa,H00-H57,12,66965483,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the circulatory system,I00-I99,162612,66965483,242.8
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the respiratory system,J00-J98,45174,66965483,67.5
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the digestive system,K00-K92,18099,66965483,27
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the skin and subcutaneous tissue,L00-L98,628,66965483,0.9
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the musculoskeletal system and connective tissue,M00-M99,3001,66965483,4.5
+Census Region 4: West,CENS-R4,2004,2004,Diseases of the genitourinary system,N00-N98,8983,66965483,13.4
+Census Region 4: West,CENS-R4,2004,2004,"Pregnancy, childbirth and the puerperium",O00-O99,218,66965483,0.3
+Census Region 4: West,CENS-R4,2004,2004,Certain conditions originating in the perinatal period,P00-P96,2727,66965483,4.1
+Census Region 4: West,CENS-R4,2004,2004,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2527,66965483,3.8
+Census Region 4: West,CENS-R4,2004,2004,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4031,66965483,6
+Census Region 4: West,CENS-R4,2004,2004,External causes of morbidity and mortality,V01-Y89,38354,66965483,57.3
+Census Region 4: West,CENS-R4,2005,2005,Certain infectious and parasitic diseases,A00-B99,9880,67833726,14.6
+Census Region 4: West,CENS-R4,2005,2005,Neoplasms,C00-D48,110071,67833726,162.3
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1417,67833726,2.1
+Census Region 4: West,CENS-R4,2005,2005,"Endocrine, nutritional and metabolic diseases",E00-E88,19727,67833726,29.1
+Census Region 4: West,CENS-R4,2005,2005,Mental and behavioural disorders,F01-F99,13696,67833726,20.2
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the nervous system,G00-G98,26020,67833726,38.4
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the eye and adnexa,H00-H57,10,67833726,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the ear and mastoid process,H60-H93,10,67833726,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the circulatory system,I00-I99,162595,67833726,239.7
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the respiratory system,J00-J98,47841,67833726,70.5
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the digestive system,K00-K92,18566,67833726,27.4
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the skin and subcutaneous tissue,L00-L98,689,67833726,1
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the musculoskeletal system and connective tissue,M00-M99,3156,67833726,4.7
+Census Region 4: West,CENS-R4,2005,2005,Diseases of the genitourinary system,N00-N98,9310,67833726,13.7
+Census Region 4: West,CENS-R4,2005,2005,"Pregnancy, childbirth and the puerperium",O00-O99,185,67833726,0.3
+Census Region 4: West,CENS-R4,2005,2005,Certain conditions originating in the perinatal period,P00-P96,2832,67833726,4.2
+Census Region 4: West,CENS-R4,2005,2005,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2497,67833726,3.7
+Census Region 4: West,CENS-R4,2005,2005,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4376,67833726,6.5
+Census Region 4: West,CENS-R4,2005,2005,External causes of morbidity and mortality,V01-Y89,39838,67833726,58.7
+Census Region 4: West,CENS-R4,2006,2006,Certain infectious and parasitic diseases,A00-B99,10247,68751765,14.9
+Census Region 4: West,CENS-R4,2006,2006,Neoplasms,C00-D48,110033,68751765,160
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1259,68751765,1.8
+Census Region 4: West,CENS-R4,2006,2006,"Endocrine, nutritional and metabolic diseases",E00-E88,19253,68751765,28
+Census Region 4: West,CENS-R4,2006,2006,Mental and behavioural disorders,F01-F99,17068,68751765,24.8
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the nervous system,G00-G98,27238,68751765,39.6
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the ear and mastoid process,H60-H93,20,68751765,0
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the circulatory system,I00-I99,158807,68751765,231
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the respiratory system,J00-J98,46782,68751765,68
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the digestive system,K00-K92,19046,68751765,27.7
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the skin and subcutaneous tissue,L00-L98,617,68751765,0.9
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the musculoskeletal system and connective tissue,M00-M99,3079,68751765,4.5
+Census Region 4: West,CENS-R4,2006,2006,Diseases of the genitourinary system,N00-N98,9692,68751765,14.1
+Census Region 4: West,CENS-R4,2006,2006,"Pregnancy, childbirth and the puerperium",O00-O99,199,68751765,0.3
+Census Region 4: West,CENS-R4,2006,2006,Certain conditions originating in the perinatal period,P00-P96,2817,68751765,4.1
+Census Region 4: West,CENS-R4,2006,2006,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2511,68751765,3.7
+Census Region 4: West,CENS-R4,2006,2006,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5042,68751765,7.3
+Census Region 4: West,CENS-R4,2006,2006,External causes of morbidity and mortality,V01-Y89,40908,68751765,59.5
+Census Region 4: West,CENS-R4,2007,2007,Certain infectious and parasitic diseases,A00-B99,10205,69595414,14.7
+Census Region 4: West,CENS-R4,2007,2007,Neoplasms,C00-D48,112071,69595414,161
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1546,69595414,2.2
+Census Region 4: West,CENS-R4,2007,2007,"Endocrine, nutritional and metabolic diseases",E00-E88,19611,69595414,28.2
+Census Region 4: West,CENS-R4,2007,2007,Mental and behavioural disorders,F01-F99,16088,69595414,23.1
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the nervous system,G00-G98,28007,69595414,40.2
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the ear and mastoid process,H60-H93,11,69595414,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the circulatory system,I00-I99,154619,69595414,222.2
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the respiratory system,J00-J98,45337,69595414,65.1
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the digestive system,K00-K92,19535,69595414,28.1
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the skin and subcutaneous tissue,L00-L98,660,69595414,0.9
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the musculoskeletal system and connective tissue,M00-M99,3030,69595414,4.4
+Census Region 4: West,CENS-R4,2007,2007,Diseases of the genitourinary system,N00-N98,9756,69595414,14
+Census Region 4: West,CENS-R4,2007,2007,"Pregnancy, childbirth and the puerperium",O00-O99,174,69595414,0.3
+Census Region 4: West,CENS-R4,2007,2007,Certain conditions originating in the perinatal period,P00-P96,2861,69595414,4.1
+Census Region 4: West,CENS-R4,2007,2007,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2541,69595414,3.7
+Census Region 4: West,CENS-R4,2007,2007,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5176,69595414,7.4
+Census Region 4: West,CENS-R4,2007,2007,External causes of morbidity and mortality,V01-Y89,41738,69595414,60
+Census Region 4: West,CENS-R4,2008,2008,Certain infectious and parasitic diseases,A00-B99,10516,70509175,14.9
+Census Region 4: West,CENS-R4,2008,2008,Neoplasms,C00-D48,112220,70509175,159.2
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1521,70509175,2.2
+Census Region 4: West,CENS-R4,2008,2008,"Endocrine, nutritional and metabolic diseases",E00-E88,19799,70509175,28.1
+Census Region 4: West,CENS-R4,2008,2008,Mental and behavioural disorders,F01-F99,18308,70509175,26
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the nervous system,G00-G98,30857,70509175,43.8
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the ear and mastoid process,H60-H93,19,70509175,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the circulatory system,I00-I99,152729,70509175,216.6
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the respiratory system,J00-J98,48015,70509175,68.1
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the digestive system,K00-K92,19949,70509175,28.3
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the skin and subcutaneous tissue,L00-L98,664,70509175,0.9
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the musculoskeletal system and connective tissue,M00-M99,3031,70509175,4.3
+Census Region 4: West,CENS-R4,2008,2008,Diseases of the genitourinary system,N00-N98,9233,70509175,13.1
+Census Region 4: West,CENS-R4,2008,2008,"Pregnancy, childbirth and the puerperium",O00-O99,169,70509175,0.2
+Census Region 4: West,CENS-R4,2008,2008,Certain conditions originating in the perinatal period,P00-P96,2786,70509175,4
+Census Region 4: West,CENS-R4,2008,2008,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2479,70509175,3.5
+Census Region 4: West,CENS-R4,2008,2008,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5827,70509175,8.3
+Census Region 4: West,CENS-R4,2008,2008,External causes of morbidity and mortality,V01-Y89,40806,70509175,57.9
+Census Region 4: West,CENS-R4,2009,2009,Certain infectious and parasitic diseases,A00-B99,11071,71341376,15.5
+Census Region 4: West,CENS-R4,2009,2009,Neoplasms,C00-D48,114246,71341376,160.1
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1456,71341376,2
+Census Region 4: West,CENS-R4,2009,2009,"Endocrine, nutritional and metabolic diseases",E00-E88,19579,71341376,27.4
+Census Region 4: West,CENS-R4,2009,2009,Mental and behavioural disorders,F01-F99,18323,71341376,25.7
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the nervous system,G00-G98,30545,71341376,42.8
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the ear and mastoid process,H60-H93,18,71341376,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the circulatory system,I00-I99,149445,71341376,209.5
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the respiratory system,J00-J98,47227,71341376,66.2
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the digestive system,K00-K92,19869,71341376,27.9
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the skin and subcutaneous tissue,L00-L98,661,71341376,0.9
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the musculoskeletal system and connective tissue,M00-M99,2951,71341376,4.1
+Census Region 4: West,CENS-R4,2009,2009,Diseases of the genitourinary system,N00-N98,9444,71341376,13.2
+Census Region 4: West,CENS-R4,2009,2009,"Pregnancy, childbirth and the puerperium",O00-O99,184,71341376,0.3
+Census Region 4: West,CENS-R4,2009,2009,Certain conditions originating in the perinatal period,P00-P96,2531,71341376,3.5
+Census Region 4: West,CENS-R4,2009,2009,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2340,71341376,3.3
+Census Region 4: West,CENS-R4,2009,2009,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5632,71341376,7.9
+Census Region 4: West,CENS-R4,2009,2009,External causes of morbidity and mortality,V01-Y89,40752,71341376,57.1
+Census Region 4: West,CENS-R4,2010,2010,Certain infectious and parasitic diseases,A00-B99,10892,71945553,15.1
+Census Region 4: West,CENS-R4,2010,2010,Neoplasms,C00-D48,116045,71945553,161.3
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1553,71945553,2.2
+Census Region 4: West,CENS-R4,2010,2010,"Endocrine, nutritional and metabolic diseases",E00-E88,20002,71945553,27.8
+Census Region 4: West,CENS-R4,2010,2010,Mental and behavioural disorders,F01-F99,20334,71945553,28.3
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the nervous system,G00-G98,32527,71945553,45.2
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the ear and mastoid process,H60-H93,14,71945553,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the circulatory system,I00-I99,149053,71945553,207.2
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the respiratory system,J00-J98,46336,71945553,64.4
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the digestive system,K00-K92,19918,71945553,27.7
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the skin and subcutaneous tissue,L00-L98,699,71945553,1
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the musculoskeletal system and connective tissue,M00-M99,2887,71945553,4
+Census Region 4: West,CENS-R4,2010,2010,Diseases of the genitourinary system,N00-N98,9757,71945553,13.6
+Census Region 4: West,CENS-R4,2010,2010,"Pregnancy, childbirth and the puerperium",O00-O99,152,71945553,0.2
+Census Region 4: West,CENS-R4,2010,2010,Certain conditions originating in the perinatal period,P00-P96,2362,71945553,3.3
+Census Region 4: West,CENS-R4,2010,2010,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2318,71945553,3.2
+Census Region 4: West,CENS-R4,2010,2010,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5397,71945553,7.5
+Census Region 4: West,CENS-R4,2010,2010,External causes of morbidity and mortality,V01-Y89,40391,71945553,56.1
+Census Region 4: West,CENS-R4,2011,2011,Certain infectious and parasitic diseases,A00-B99,10974,72815460,15.1
+Census Region 4: West,CENS-R4,2011,2011,Neoplasms,C00-D48,116422,72815460,159.9
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1565,72815460,2.1
+Census Region 4: West,CENS-R4,2011,2011,"Endocrine, nutritional and metabolic diseases",E00-E88,21776,72815460,29.9
+Census Region 4: West,CENS-R4,2011,2011,Mental and behavioural disorders,F01-F99,22771,72815460,31.3
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the nervous system,G00-G98,33991,72815460,46.7
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the eye and adnexa,H00-H57,14,72815460,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the ear and mastoid process,H60-H93,17,72815460,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the circulatory system,I00-I99,152396,72815460,209.3
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the respiratory system,J00-J98,48585,72815460,66.7
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the digestive system,K00-K92,20982,72815460,28.8
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the skin and subcutaneous tissue,L00-L98,705,72815460,1
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the musculoskeletal system and connective tissue,M00-M99,3117,72815460,4.3
+Census Region 4: West,CENS-R4,2011,2011,Diseases of the genitourinary system,N00-N98,8921,72815460,12.3
+Census Region 4: West,CENS-R4,2011,2011,"Pregnancy, childbirth and the puerperium",O00-O99,149,72815460,0.2
+Census Region 4: West,CENS-R4,2011,2011,Certain conditions originating in the perinatal period,P00-P96,2358,72815460,3.2
+Census Region 4: West,CENS-R4,2011,2011,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2272,72815460,3.1
+Census Region 4: West,CENS-R4,2011,2011,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5705,72815460,7.8
+Census Region 4: West,CENS-R4,2011,2011,External causes of morbidity and mortality,V01-Y89,42007,72815460,57.7
+Census Region 4: West,CENS-R4,2012,2012,Certain infectious and parasitic diseases,A00-B99,11059,73537829,15
+Census Region 4: West,CENS-R4,2012,2012,Neoplasms,C00-D48,118445,73537829,161.1
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1623,73537829,2.2
+Census Region 4: West,CENS-R4,2012,2012,"Endocrine, nutritional and metabolic diseases",E00-E88,22155,73537829,30.1
+Census Region 4: West,CENS-R4,2012,2012,Mental and behavioural disorders,F01-F99,24991,73537829,34
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the nervous system,G00-G98,34481,73537829,46.9
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the eye and adnexa,H00-H57,16,73537829,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the ear and mastoid process,H60-H93,20,73537829,0
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the circulatory system,I00-I99,152612,73537829,207.5
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the respiratory system,J00-J98,47544,73537829,64.7
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the digestive system,K00-K92,21348,73537829,29
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the skin and subcutaneous tissue,L00-L98,691,73537829,0.9
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the musculoskeletal system and connective tissue,M00-M99,3125,73537829,4.2
+Census Region 4: West,CENS-R4,2012,2012,Diseases of the genitourinary system,N00-N98,9088,73537829,12.4
+Census Region 4: West,CENS-R4,2012,2012,"Pregnancy, childbirth and the puerperium",O00-O99,163,73537829,0.2
+Census Region 4: West,CENS-R4,2012,2012,Certain conditions originating in the perinatal period,P00-P96,2315,73537829,3.1
+Census Region 4: West,CENS-R4,2012,2012,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2300,73537829,3.1
+Census Region 4: West,CENS-R4,2012,2012,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,6413,73537829,8.7
+Census Region 4: West,CENS-R4,2012,2012,External causes of morbidity and mortality,V01-Y89,42523,73537829,57.8
+Census Region 4: West,CENS-R4,2013,2013,Certain infectious and parasitic diseases,A00-B99,11271,74247869,15.2
+Census Region 4: West,CENS-R4,2013,2013,Neoplasms,C00-D48,119393,74247869,160.8
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1618,74247869,2.2
+Census Region 4: West,CENS-R4,2013,2013,"Endocrine, nutritional and metabolic diseases",E00-E88,22631,74247869,30.5
+Census Region 4: West,CENS-R4,2013,2013,Mental and behavioural disorders,F01-F99,25790,74247869,34.7
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the nervous system,G00-G98,36601,74247869,49.3
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the eye and adnexa,H00-H57,11,74247869,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the ear and mastoid process,H60-H93,17,74247869,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the circulatory system,I00-I99,155695,74247869,209.7
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the respiratory system,J00-J98,50910,74247869,68.6
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the digestive system,K00-K92,22150,74247869,29.8
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the skin and subcutaneous tissue,L00-L98,737,74247869,1
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the musculoskeletal system and connective tissue,M00-M99,3028,74247869,4.1
+Census Region 4: West,CENS-R4,2013,2013,Diseases of the genitourinary system,N00-N98,9447,74247869,12.7
+Census Region 4: West,CENS-R4,2013,2013,"Pregnancy, childbirth and the puerperium",O00-O99,192,74247869,0.3
+Census Region 4: West,CENS-R4,2013,2013,Certain conditions originating in the perinatal period,P00-P96,2458,74247869,3.3
+Census Region 4: West,CENS-R4,2013,2013,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2166,74247869,2.9
+Census Region 4: West,CENS-R4,2013,2013,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5799,74247869,7.8
+Census Region 4: West,CENS-R4,2013,2013,External causes of morbidity and mortality,V01-Y89,43496,74247869,58.6
+Census Region 4: West,CENS-R4,2014,2014,Certain infectious and parasitic diseases,A00-B99,11224,75023986,15
+Census Region 4: West,CENS-R4,2014,2014,Neoplasms,C00-D48,121115,75023986,161.4
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1693,75023986,2.3
+Census Region 4: West,CENS-R4,2014,2014,"Endocrine, nutritional and metabolic diseases",E00-E88,23395,75023986,31.2
+Census Region 4: West,CENS-R4,2014,2014,Mental and behavioural disorders,F01-F99,24218,75023986,32.3
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the nervous system,G00-G98,39282,75023986,52.4
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the ear and mastoid process,H60-H93,13,75023986,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the circulatory system,I00-I99,155183,75023986,206.8
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the respiratory system,J00-J98,49700,75023986,66.2
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the digestive system,K00-K92,22813,75023986,30.4
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the skin and subcutaneous tissue,L00-L98,812,75023986,1.1
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the musculoskeletal system and connective tissue,M00-M99,2907,75023986,3.9
+Census Region 4: West,CENS-R4,2014,2014,Diseases of the genitourinary system,N00-N98,9889,75023986,13.2
+Census Region 4: West,CENS-R4,2014,2014,"Pregnancy, childbirth and the puerperium",O00-O99,201,75023986,0.3
+Census Region 4: West,CENS-R4,2014,2014,Certain conditions originating in the perinatal period,P00-P96,2400,75023986,3.2
+Census Region 4: West,CENS-R4,2014,2014,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2193,75023986,2.9
+Census Region 4: West,CENS-R4,2014,2014,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4794,75023986,6.4
+Census Region 4: West,CENS-R4,2014,2014,External causes of morbidity and mortality,V01-Y89,44763,75023986,59.7
+Census Region 4: West,CENS-R4,2015,2015,Certain infectious and parasitic diseases,A00-B99,11279,75834288,14.9
+Census Region 4: West,CENS-R4,2015,2015,Neoplasms,C00-D48,123917,75834288,163.4
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1694,75834288,2.2
+Census Region 4: West,CENS-R4,2015,2015,"Endocrine, nutritional and metabolic diseases",E00-E88,25252,75834288,33.3
+Census Region 4: West,CENS-R4,2015,2015,Mental and behavioural disorders,F01-F99,21193,75834288,27.9
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the nervous system,G00-G98,45789,75834288,60.4
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the ear and mastoid process,H60-H93,26,75834288,0
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the circulatory system,I00-I99,163783,75834288,216
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the respiratory system,J00-J98,52645,75834288,69.4
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the digestive system,K00-K92,24097,75834288,31.8
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the skin and subcutaneous tissue,L00-L98,838,75834288,1.1
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the musculoskeletal system and connective tissue,M00-M99,2986,75834288,3.9
+Census Region 4: West,CENS-R4,2015,2015,Diseases of the genitourinary system,N00-N98,10731,75834288,14.2
+Census Region 4: West,CENS-R4,2015,2015,"Pregnancy, childbirth and the puerperium",O00-O99,172,75834288,0.2
+Census Region 4: West,CENS-R4,2015,2015,Certain conditions originating in the perinatal period,P00-P96,2229,75834288,2.9
+Census Region 4: West,CENS-R4,2015,2015,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2350,75834288,3.1
+Census Region 4: West,CENS-R4,2015,2015,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,4946,75834288,6.5
+Census Region 4: West,CENS-R4,2015,2015,External causes of morbidity and mortality,V01-Y89,47232,75834288,62.3
+Census Region 4: West,CENS-R4,2016,2016,Certain infectious and parasitic diseases,A00-B99,11192,76657000,14.6
+Census Region 4: West,CENS-R4,2016,2016,Neoplasms,C00-D48,124358,76657000,162.2
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89,1770,76657000,2.3
+Census Region 4: West,CENS-R4,2016,2016,"Endocrine, nutritional and metabolic diseases",E00-E88,26285,76657000,34.3
+Census Region 4: West,CENS-R4,2016,2016,Mental and behavioural disorders,F01-F99,21293,76657000,27.8
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the nervous system,G00-G98,47471,76657000,61.9
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the eye and adnexa,H00-H57,12,76657000,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the ear and mastoid process,H60-H93,18,76657000,0.0 (Unreliable)
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the circulatory system,I00-I99,167096,76657000,218
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the respiratory system,J00-J98,52607,76657000,68.6
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the digestive system,K00-K92,23748,76657000,31
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the skin and subcutaneous tissue,L00-L98,952,76657000,1.2
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the musculoskeletal system and connective tissue,M00-M99,3072,76657000,4
+Census Region 4: West,CENS-R4,2016,2016,Diseases of the genitourinary system,N00-N98,11058,76657000,14.4
+Census Region 4: West,CENS-R4,2016,2016,"Pregnancy, childbirth and the puerperium",O00-O99,191,76657000,0.2
+Census Region 4: West,CENS-R4,2016,2016,Certain conditions originating in the perinatal period,P00-P96,2143,76657000,2.8
+Census Region 4: West,CENS-R4,2016,2016,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99,2291,76657000,3
+Census Region 4: West,CENS-R4,2016,2016,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R99,5535,76657000,7.2
+Census Region 4: West,CENS-R4,2016,2016,External causes of morbidity and mortality,V01-Y89,49450,76657000,64.5
