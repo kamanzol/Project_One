@@ -16,7 +16,7 @@ matplotlib
 os
 gmaps
 ```
-You will also require a Google Maps API key which you can be replaced in ```config.py```. Sign-up here: https://cloud.google.com/maps-platform/.
+You will also require a Google Maps API key which you can be replaced in ```config_template.py```. The file needs to be renamed to ```config.py``` after replacing your API-key. Sign-up here: https://cloud.google.com/maps-platform/.
 
 ## Data Sources
 The data used in this investigation is included as ```.csv``` files in _Resources_ folder. The data was acquired from the following sources:-
