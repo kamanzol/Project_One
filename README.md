@@ -1,6 +1,6 @@
 # Investigation of Correlations between Gross Development Product (GDP) with Mortality and Life Expectancy 
 We have examined global mortality and life expectancy data and global economic data to look for correlations among mortality rates, GDP, and life expectancy by country and by region.
-![gif_image](Images\combined_images_gif.gif)
+![gif_image](Images/combined_images_gif.gif)
 ## Motivation and Hypotheses
 1. We expect that life expectancy is positively correlated with GDP. 
 $H_0 =$ There is no relationship between life expectancy and GDP.
