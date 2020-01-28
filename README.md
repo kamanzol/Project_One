@@ -15,8 +15,6 @@ matplotlib
 os
 gmaps
 ```
-You will also require a Google Maps API key which you can be replaced in ```config.py```. Sign-up here: https://cloud.google.com/maps-platform/.
-
 ## Data Sources
 The data used in this investigation is included as ```.csv``` files in _Resources_ folder. The data was acquired from the following sources:-
 1. **WHO**. World Health Organization Global Health Observatory data repository. "Adult mortality data by country." Retrieved fromhttp://apps.who.int/gho/data/view.main.1360?lang=en¶. Last updated 2018-05-07. Features 17 years' of mortality data from 183 countries

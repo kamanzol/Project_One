@@ -1,0 +1,661 @@
+State,State Code,Year,Year Code,Gender,Gender Code,Cause of death,Cause of death Code,Deaths,Population,Crude Rate
+Alabama,1,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,13,311918,Unreliable
+Alabama,1,2011,2011,Female,F,"Cardiac arrest, unspecified",I46.9,16,311918,Unreliable
+Alabama,1,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,22,311918,7.1
+Alabama,1,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19,311918,Unreliable
+Alabama,1,2011,2011,Female,F,Victim of cataclysmic storm,X37,12,311918,Unreliable
+Alabama,1,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30,311918,9.6
+Alabama,1,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,13,311918,Unreliable
+Alabama,1,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,12,302589,Unreliable
+Alabama,1,2011,2011,Male,M,"Cardiac arrest, unspecified",I46.9,15,302589,Unreliable
+Alabama,1,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,28,302589,9.3
+Alabama,1,2011,2011,Male,M,Car occupant [any] injured in unspecified traffic accident,V49.9,13,302589,Unreliable
+Alabama,1,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,50,302589,16.5
+Alabama,1,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23,302589,7.6
+Alabama,1,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,50,302589,16.5
+Alabama,1,2011,2011,Male,M,Exposure to unspecified factor causing other and unspecified injury,X59.9,10,302589,Unreliable
+Alabama,1,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,302589,12.2
+Alabama,1,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,38,302589,12.6
+Alabama,1,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,76,302589,25.1
+Arizona,4,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27,423747,6.4
+Arizona,4,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,16,423747,Unreliable
+Arizona,4,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35,423747,8.3
+Arizona,4,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,423747,Unreliable
+Arizona,4,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,11,423747,Unreliable
+Arizona,4,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,47,446976,10.5
+Arizona,4,2011,2011,Male,M,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,11,446976,Unreliable
+Arizona,4,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50,446976,11.2
+Arizona,4,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,61,446976,13.6
+Arizona,4,2011,2011,Male,M,Accidental poisoning by and exposure to alcohol,X45,13,446976,Unreliable
+Arizona,4,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,446976,7.2
+Arizona,4,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,17,446976,Unreliable
+Arizona,4,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12,446976,Unreliable
+Arizona,4,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,64,446976,14.3
+Arizona,4,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,68,446976,15.2
+Arkansas,5,2011,2011,Female,F,Person injured in collision between other specified motor vehicles (traffic),V87.7,10,190208,Unreliable
+Arkansas,5,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21,190208,11
+Arkansas,5,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,14,190208,Unreliable
+Arkansas,5,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,14,191584,Unreliable
+Arkansas,5,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,35,191584,18.3
+Arkansas,5,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13,191584,Unreliable
+Arkansas,5,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28,191584,14.6
+Arkansas,5,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,191584,Unreliable
+Arkansas,5,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,30,191584,15.7
+Arkansas,5,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,43,191584,22.4
+California,6,2011,2011,Female,F,"Stomach, unspecified - Malignant neoplasms",C16.9,11,2638768,Unreliable
+California,6,2011,2011,Female,F,"Colon, unspecified - Malignant neoplasms",C18.9,11,2638768,Unreliable
+California,6,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,39,2638768,1.5
+California,6,2011,2011,Female,F,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,19,2638768,Unreliable
+California,6,2011,2011,Female,F,"Brain, unspecified - Malignant neoplasms",C71.9,15,2638768,Unreliable
+California,6,2011,2011,Female,F,Malignant neoplasm without specification of site,C80,13,2638768,Unreliable
+California,6,2011,2011,Female,F,"Unspecified diabetes mellitus, without complications",E14.9,11,2638768,Unreliable
+California,6,2011,2011,Female,F,"Infantile cerebral palsy, unspecified",G80.9,18,2638768,Unreliable
+California,6,2011,2011,Female,F,"Cardiomyopathy, unspecified",I42.9,12,2638768,Unreliable
+California,6,2011,2011,Female,F,Alcoholic cirrhosis of liver,K70.3,11,2638768,Unreliable
+California,6,2011,2011,Female,F,Systemic lupus erythematosus with organ or system involvement,M32.1,18,2638768,Unreliable
+California,6,2011,2011,Female,F,Death from direct obstetric cause occurring more than 42 days but less than one year after delivery,O96.0,13,2638768,Unreliable
+California,6,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,16,2638768,Unreliable
+California,6,2011,2011,Female,F,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,11,2638768,Unreliable
+California,6,2011,2011,Female,F,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,13,2638768,Unreliable
+California,6,2011,2011,Female,F,Person injured in collision between other specified motor vehicles (traffic),V87.7,13,2638768,Unreliable
+California,6,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,37,2638768,1.4
+California,6,2011,2011,Female,F,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,18,2638768,Unreliable
+California,6,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,31,2638768,1.2
+California,6,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,63,2638768,2.4
+California,6,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,2638768,Unreliable
+California,6,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,42,2638768,1.6
+California,6,2011,2011,Female,F,"Assault by hanging, strangulation and suffocation",X91,12,2638768,Unreliable
+California,6,2011,2011,Female,F,Assault by handgun discharge,X93,14,2638768,Unreliable
+California,6,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,31,2638768,1.2
+California,6,2011,2011,Female,F,Assault by sharp object,X99,10,2638768,Unreliable
+California,6,2011,2011,Male,M,"Stomach, unspecified - Malignant neoplasms",C16.9,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Colon, unspecified - Malignant neoplasms",C18.9,17,2773599,Unreliable
+California,6,2011,2011,Male,M,"Testis, unspecified - Malignant neoplasms",C62.9,24,2773599,0.9
+California,6,2011,2011,Male,M,"Brain, unspecified - Malignant neoplasms",C71.9,23,2773599,0.8
+California,6,2011,2011,Male,M,Acute lymphoblastic leukaemia - Malignant neoplasms,C91.0,19,2773599,Unreliable
+California,6,2011,2011,Male,M,Acute myeloid leukaemia - Malignant neoplasms,C92.0,11,2773599,Unreliable
+California,6,2011,2011,Male,M,Other obesity,E66.8,28,2773599,1
+California,6,2011,2011,Male,M,"Mental and behavioural disorders due to use of alcohol, dependence syndrome",F10.2,13,2773599,Unreliable
+California,6,2011,2011,Male,M,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",F19.1,10,2773599,Unreliable
+California,6,2011,2011,Male,M,"Epilepsy, unspecified",G40.9,11,2773599,Unreliable
+California,6,2011,2011,Male,M,Muscular dystrophy,G71.0,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Infantile cerebral palsy, unspecified",G80.9,20,2773599,0.7
+California,6,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,30,2773599,1.1
+California,6,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,25,2773599,0.9
+California,6,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,24,2773599,0.9
+California,6,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,31,2773599,1.1
+California,6,2011,2011,Male,M,Dilated cardiomyopathy,I42.0,19,2773599,Unreliable
+California,6,2011,2011,Male,M,Other hypertrophic cardiomyopathy,I42.2,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Cardiomyopathy, unspecified",I42.9,26,2773599,0.9
+California,6,2011,2011,Male,M,Cardiomegaly,I51.7,24,2773599,0.9
+California,6,2011,2011,Male,M,"Intracerebral haemorrhage, unspecified",I61.9,11,2773599,Unreliable
+California,6,2011,2011,Male,M,"Pneumonia, unspecified",J18.9,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Asthma, unspecified",J45.9,16,2773599,Unreliable
+California,6,2011,2011,Male,M,Alcoholic cirrhosis of liver,K70.3,34,2773599,1.2
+California,6,2011,2011,Male,M,"Alcoholic liver disease, unspecified",K70.9,10,2773599,Unreliable
+California,6,2011,2011,Male,M,Other and unspecified cirrhosis of liver,K74.6,10,2773599,Unreliable
+California,6,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,42,2773599,1.5
+California,6,2011,2011,Male,M,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,18,2773599,Unreliable
+California,6,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,27,2773599,1
+California,6,2011,2011,Male,M,"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,24,2773599,0.9
+California,6,2011,2011,Male,M,"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident",V27.4,17,2773599,Unreliable
+California,6,2011,2011,Male,M,Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,15,2773599,Unreliable
+California,6,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,21,2773599,0.8
+California,6,2011,2011,Male,M,"Car occupant injured in noncollision transport accident, driver injured in traffic accident",V48.5,12,2773599,Unreliable
+California,6,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,46,2773599,1.7
+California,6,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,92,2773599,3.3
+California,6,2011,2011,Male,M,Drowning and submersion while in natural water,W69,28,2773599,1
+California,6,2011,2011,Male,M,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,39,2773599,1.4
+California,6,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,182,2773599,6.6
+California,6,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,181,2773599,6.5
+California,6,2011,2011,Male,M,Accidental poisoning by and exposure to alcohol,X45,26,2773599,0.9
+California,6,2011,2011,Male,M,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,12,2773599,Unreliable
+California,6,2011,2011,Male,M,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,26,2773599,0.9
+California,6,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,178,2773599,6.4
+California,6,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,84,2773599,3
+California,6,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,29,2773599,1
+California,6,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,50,2773599,1.8
+California,6,2011,2011,Male,M,Intentional self-harm by jumping from a high place,X80,31,2773599,1.1
+California,6,2011,2011,Male,M,Intentional self-harm by jumping or lying before moving object,X81,17,2773599,Unreliable
+California,6,2011,2011,Male,M,Assault by handgun discharge,X93,58,2773599,2.1
+California,6,2011,2011,Male,M,"Assault by rifle, shotgun and larger firearm discharge",X94,11,2773599,Unreliable
+California,6,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,266,2773599,9.6
+California,6,2011,2011,Male,M,Assault by sharp object,X99,44,2773599,1.6
+California,6,2011,2011,Male,M,Assault by unspecified means,Y09,18,2773599,Unreliable
+California,6,2011,2011,Male,M,Legal intervention involving firearm discharge,Y35.0,19,2773599,Unreliable
+Colorado,8,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,21,361227,5.8
+Colorado,8,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31,361227,8.6
+Colorado,8,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,361227,Unreliable
+Colorado,8,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,10,384780,Unreliable
+Colorado,8,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,22,384780,5.7
+Colorado,8,2011,2011,Male,M,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,10,384780,Unreliable
+Colorado,8,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,44,384780,11.4
+Colorado,8,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,41,384780,10.7
+Colorado,8,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,384780,8.3
+Colorado,8,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,21,384780,5.5
+Colorado,8,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,33,384780,8.6
+Colorado,8,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,27,384780,7
+Connecticut,9,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10,213379,Unreliable
+Connecticut,9,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,21,214552,9.8
+Connecticut,9,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,42,214552,19.6
+Connecticut,9,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21,214552,9.8
+Connecticut,9,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,214552,Unreliable
+Connecticut,9,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,39,214552,18.2
+Delaware,10,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18,56791,Unreliable
+District of Columbia,11,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,21,62650,33.5
+Florida,12,2011,2011,Female,F,"Septicaemia, unspecified",A41.9,10,1161976,Unreliable
+Florida,12,2011,2011,Female,F,Unspecified human immunodeficiency virus [HIV] disease,B24,19,1161976,Unreliable
+Florida,12,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,21,1161976,1.8
+Florida,12,2011,2011,Female,F,Hypertensive heart disease without (congestive) heart failure,I11.9,12,1161976,Unreliable
+Florida,12,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,11,1161976,Unreliable
+Florida,12,2011,2011,Female,F,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,10,1161976,Unreliable
+Florida,12,2011,2011,Female,F,Car occupant [any] injured in unspecified traffic accident,V49.9,13,1161976,Unreliable
+Florida,12,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10,1161976,Unreliable
+Florida,12,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,37,1161976,3.2
+Florida,12,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,126,1161976,10.8
+Florida,12,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,15,1161976,Unreliable
+Florida,12,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,1161976,Unreliable
+Florida,12,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,11,1161976,Unreliable
+Florida,12,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,27,1161976,2.3
+Florida,12,2011,2011,Male,M,"Septicaemia, unspecified",A41.9,13,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Unspecified human immunodeficiency virus [HIV] disease,B24,11,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Brain, unspecified - Malignant neoplasms",C71.9,13,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",F19.1,10,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Epilepsy, unspecified",G40.9,13,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,13,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,11,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,14,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Cardiomegaly,I51.7,10,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Pneumonia, unspecified",J18.9,10,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,17,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,19,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,20,1181704,1.7
+Florida,12,2011,2011,Male,M,"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,19,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident",V27.4,12,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Driver injured in collision with other and unspecified motor vehicles in traffic accident,V29.4,25,1181704,2.1
+Florida,12,2011,2011,Male,M,Motorcycle rider [any] injured in unspecified traffic accident,V29.9,17,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,14,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Car occupant [any] injured in unspecified traffic accident,V49.9,31,1181704,2.6
+Florida,12,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,26,1181704,2.2
+Florida,12,2011,2011,Male,M,Drowning and submersion while in natural water,W69,11,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,144,1181704,12.2
+Florida,12,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,258,1181704,21.8
+Florida,12,2011,2011,Male,M,Accidental poisoning by and exposure to alcohol,X45,11,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13,1181704,Unreliable
+Florida,12,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,90,1181704,7.6
+Florida,12,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,32,1181704,2.7
+Florida,12,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,20,1181704,1.7
+Florida,12,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,97,1181704,8.2
+Florida,12,2011,2011,Male,M,Assault by handgun discharge,X93,18,1181704,Unreliable
+Florida,12,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,183,1181704,15.5
+Florida,12,2011,2011,Male,M,Assault by sharp object,X99,24,1181704,2
+Georgia,13,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,18,683730,Unreliable
+Georgia,13,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,10,683730,Unreliable
+Georgia,13,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,28,683730,4.1
+Georgia,13,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13,683730,Unreliable
+Georgia,13,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,37,683730,5.4
+Georgia,13,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,683730,Unreliable
+Georgia,13,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,13,683730,Unreliable
+Georgia,13,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,14,683730,Unreliable
+Georgia,13,2011,2011,Male,M,"Septicaemia, unspecified",A41.9,11,674798,Unreliable
+Georgia,13,2011,2011,Male,M,"Brain, unspecified - Malignant neoplasms",C71.9,10,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,19,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,11,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,15,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Car occupant [any] injured in unspecified traffic accident,V49.9,13,674798,Unreliable
+Georgia,13,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,64,674798,9.5
+Georgia,13,2011,2011,Male,M,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,13,674798,Unreliable
+Georgia,13,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,53,674798,7.9
+Georgia,13,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,75,674798,11.1
+Georgia,13,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,52,674798,7.7
+Georgia,13,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,15,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,62,674798,9.2
+Georgia,13,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,98,674798,14.5
+Georgia,13,2011,2011,Male,M,Assault by sharp object,X99,18,674798,Unreliable
+Georgia,13,2011,2011,Male,M,Assault by unspecified means,Y09,11,674798,Unreliable
+Hawaii,15,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,99961,Unreliable
+Idaho,16,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10,107500,Unreliable
+Illinois,17,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,17,890403,Unreliable
+Illinois,17,2011,2011,Female,F,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,13,890403,Unreliable
+Illinois,17,2011,2011,Female,F,Hypertensive heart disease without (congestive) heart failure,I11.9,10,890403,Unreliable
+Illinois,17,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12,890403,Unreliable
+Illinois,17,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,50,890403,5.6
+Illinois,17,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23,890403,2.6
+Illinois,17,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,890403,2.6
+Illinois,17,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,10,890403,Unreliable
+Illinois,17,2011,2011,Male,M,"Brain, unspecified - Malignant neoplasms",C71.9,10,897795,Unreliable
+Illinois,17,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,18,897795,Unreliable
+Illinois,17,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,10,897795,Unreliable
+Illinois,17,2011,2011,Male,M,Dilated cardiomyopathy,I42.0,15,897795,Unreliable
+Illinois,17,2011,2011,Male,M,"Cardiac arrhythmia, unspecified",I49.9,12,897795,Unreliable
+Illinois,17,2011,2011,Male,M,"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,10,897795,Unreliable
+Illinois,17,2011,2011,Male,M,Car occupant [any] injured in unspecified traffic accident,V49.9,11,897795,Unreliable
+Illinois,17,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,25,897795,2.8
+Illinois,17,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,207,897795,23.1
+Illinois,17,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,31,897795,3.5
+Illinois,17,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,80,897795,8.9
+Illinois,17,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,52,897795,5.8
+Illinois,17,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,164,897795,18.3
+Indiana,18,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,13,415935,Unreliable
+Indiana,18,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,12,415935,Unreliable
+Indiana,18,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,12,415935,Unreliable
+Indiana,18,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,41,415935,9.9
+Indiana,18,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,415935,Unreliable
+Indiana,18,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,10,415935,Unreliable
+Indiana,18,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,11,419031,Unreliable
+Indiana,18,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,16,419031,Unreliable
+Indiana,18,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,27,419031,6.4
+Indiana,18,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,43,419031,10.3
+Indiana,18,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,86,419031,20.5
+Indiana,18,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,55,419031,13.1
+Indiana,18,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,11,419031,Unreliable
+Indiana,18,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,38,419031,9.1
+Indiana,18,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,40,419031,9.5
+Indiana,18,2011,2011,Male,M,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,15,419031,Unreliable
+Iowa,19,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17,198544,Unreliable
+Iowa,19,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,198544,Unreliable
+Iowa,19,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,14,198544,Unreliable
+Kansas,20,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,17,195266,Unreliable
+Kansas,20,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,195266,Unreliable
+Kansas,20,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,17,195266,Unreliable
+Kansas,20,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,18,195266,Unreliable
+Kentucky,21,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,25,282002,8.9
+Kentucky,21,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18,282002,Unreliable
+Kentucky,21,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,62,282002,22
+Kentucky,21,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,12,287156,Unreliable
+Kentucky,21,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,16,287156,Unreliable
+Kentucky,21,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32,287156,11.1
+Kentucky,21,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36,287156,12.5
+Kentucky,21,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,96,287156,33.4
+Kentucky,21,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,287156,10.8
+Kentucky,21,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,42,287156,14.6
+Kentucky,21,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,23,287156,8
+Louisiana,22,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16,320956,Unreliable
+Louisiana,22,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28,320956,8.7
+Louisiana,22,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,10,320956,Unreliable
+Louisiana,22,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,22,320956,6.9
+Louisiana,22,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,11,321272,Unreliable
+Louisiana,22,2011,2011,Male,M,Motorcycle rider [any] injured in unspecified traffic accident,V29.9,10,321272,Unreliable
+Louisiana,22,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,45,321272,14
+Louisiana,22,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11,321272,Unreliable
+Louisiana,22,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,63,321272,19.6
+Louisiana,22,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,321272,Unreliable
+Louisiana,22,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,49,321272,15.3
+Louisiana,22,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,111,321272,34.6
+Maine,23,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,72719,Unreliable
+Maryland,24,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,10,397599,Unreliable
+Maryland,24,2011,2011,Female,F,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,28,397599,7
+Maryland,24,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13,385385,Unreliable
+Maryland,24,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15,385385,Unreliable
+Maryland,24,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,30,385385,7.8
+Maryland,24,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,19,385385,Unreliable
+Maryland,24,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,84,385385,21.8
+Maryland,24,2011,2011,Male,M,Assault by sharp object,X99,10,385385,Unreliable
+Maryland,24,2011,2011,Male,M,Assault by unspecified means,Y09,12,385385,Unreliable
+Maryland,24,2011,2011,Male,M,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,66,385385,17.1
+Maryland,24,2011,2011,Male,M,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,20,385385,5.2
+Massachusetts,25,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,25,438817,5.7
+Massachusetts,25,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,13,438817,Unreliable
+Massachusetts,25,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,438817,Unreliable
+Massachusetts,25,2011,2011,Male,M,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",F19.1,12,429239,Unreliable
+Massachusetts,25,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,12,429239,Unreliable
+Massachusetts,25,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,20,429239,4.7
+Massachusetts,25,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19,429239,Unreliable
+Massachusetts,25,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,118,429239,27.5
+Massachusetts,25,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35,429239,8.2
+Massachusetts,25,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,34,429239,7.9
+Massachusetts,25,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,25,429239,5.8
+Michigan,26,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,11,585334,Unreliable
+Michigan,26,2011,2011,Female,F,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",F19.1,15,585334,Unreliable
+Michigan,26,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33,585334,5.6
+Michigan,26,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,48,585334,8.2
+Michigan,26,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,585334,Unreliable
+Michigan,26,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,13,585334,Unreliable
+Michigan,26,2011,2011,Female,F,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,12,585334,Unreliable
+Michigan,26,2011,2011,Male,M,Other obesity,E66.8,12,584444,Unreliable
+Michigan,26,2011,2011,Male,M,"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use",F19.1,34,584444,5.8
+Michigan,26,2011,2011,Male,M,Dilated cardiomyopathy,I42.0,11,584444,Unreliable
+Michigan,26,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10,584444,Unreliable
+Michigan,26,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,13,584444,Unreliable
+Michigan,26,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32,584444,5.5
+Michigan,26,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,79,584444,13.5
+Michigan,26,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,60,584444,10.3
+Michigan,26,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,53,584444,9.1
+Michigan,26,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,23,584444,3.9
+Michigan,26,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,44,584444,7.5
+Michigan,26,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,121,584444,20.7
+Michigan,26,2011,2011,Male,M,Assault by sharp object,X99,10,584444,Unreliable
+Michigan,26,2011,2011,Male,M,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,22,584444,3.8
+Minnesota,27,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11,360378,Unreliable
+Minnesota,27,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16,369394,Unreliable
+Minnesota,27,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,31,369394,8.4
+Minnesota,27,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20,369394,5.4
+Minnesota,27,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,369394,10
+Minnesota,27,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,21,369394,5.7
+Minnesota,27,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,10,369394,Unreliable
+Mississippi,28,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11,197679,Unreliable
+Mississippi,28,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,11,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,"Car occupant injured in noncollision transport accident, driver injured in traffic accident",V48.5,12,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,22,191928,11.5
+Mississippi,28,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,17,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,13,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,Assault by handgun discharge,X93,19,191928,Unreliable
+Mississippi,28,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,49,191928,25.5
+Missouri,29,2011,2011,Female,F,Person injured in collision between other specified motor vehicles (traffic),V87.7,10,393736,Unreliable
+Missouri,29,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15,393736,Unreliable
+Missouri,29,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,40,393736,10.2
+Missouri,29,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24,393736,6.1
+Missouri,29,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,393736,Unreliable
+Missouri,29,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,17,393980,Unreliable
+Missouri,29,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,18,393980,Unreliable
+Missouri,29,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,44,393980,11.2
+Missouri,29,2011,2011,Male,M,Victim of cataclysmic storm,X37,11,393980,Unreliable
+Missouri,29,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,83,393980,21.1
+Missouri,29,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,42,393980,10.7
+Missouri,29,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,393980,8.9
+Missouri,29,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,10,393980,Unreliable
+Missouri,29,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,15,393980,Unreliable
+Missouri,29,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,34,393980,8.6
+Missouri,29,2011,2011,Male,M,Assault by handgun discharge,X93,16,393980,Unreliable
+Missouri,29,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,65,393980,16.5
+Montana,30,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,14,64241,Unreliable
+Nebraska,31,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,127317,Unreliable
+Nebraska,31,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,11,127317,Unreliable
+Nebraska,31,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,12,127317,Unreliable
+Nevada,32,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,10,190132,Unreliable
+Nevada,32,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,15,190132,Unreliable
+Nevada,32,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16,199307,Unreliable
+Nevada,32,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,29,199307,14.6
+Nevada,32,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,30,199307,15.1
+Nevada,32,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,199307,Unreliable
+Nevada,32,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,20,199307,10
+Nevada,32,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,19,199307,Unreliable
+New Hampshire,33,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15,74019,Unreliable
+New Jersey,34,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,11,560760,Unreliable
+New Jersey,34,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,13,560760,Unreliable
+New Jersey,34,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,13,560760,Unreliable
+New Jersey,34,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40,560760,7.1
+New Jersey,34,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,10,562584,Unreliable
+New Jersey,34,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,11,562584,Unreliable
+New Jersey,34,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,25,562584,4.4
+New Jersey,34,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,61,562584,10.8
+New Jersey,34,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,84,562584,14.9
+New Jersey,34,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,562584,5.7
+New Jersey,34,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,15,562584,Unreliable
+New Jersey,34,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,91,562584,16.2
+New Jersey,34,2011,2011,Male,M,Assault by sharp object,X99,15,562584,Unreliable
+New Mexico,35,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29,133886,21.7
+New Mexico,35,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,18,140098,Unreliable
+New Mexico,35,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,35,140098,25
+New Mexico,35,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,140098,Unreliable
+New Mexico,35,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,27,140098,19.3
+New Mexico,35,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,14,140098,Unreliable
+New York,36,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,30,1371654,2.2
+New York,36,2011,2011,Female,F,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,14,1371654,Unreliable
+New York,36,2011,2011,Female,F,"Asthma, unspecified",J45.9,10,1371654,Unreliable
+New York,36,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,17,1371654,Unreliable
+New York,36,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,33,1371654,2.4
+New York,36,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,45,1371654,3.3
+New York,36,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,1371654,1.6
+New York,36,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,19,1371654,Unreliable
+New York,36,2011,2011,Male,M,"Brain, unspecified - Malignant neoplasms",C71.9,10,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Infantile cerebral palsy, unspecified",G80.9,11,1342613,Unreliable
+New York,36,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,16,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,14,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,12,1342613,Unreliable
+New York,36,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,13,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Cardiac arrhythmia, unspecified",I49.9,10,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Pneumonia, unspecified",J18.9,11,1342613,Unreliable
+New York,36,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,26,1342613,1.9
+New York,36,2011,2011,Male,M,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,10,1342613,Unreliable
+New York,36,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,17,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,15,1342613,Unreliable
+New York,36,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,12,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24,1342613,1.8
+New York,36,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,132,1342613,9.8
+New York,36,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,121,1342613,9
+New York,36,2011,2011,Male,M,Accidental poisoning by and exposure to alcohol,X45,11,1342613,Unreliable
+New York,36,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,88,1342613,6.6
+New York,36,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,15,1342613,Unreliable
+New York,36,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,37,1342613,2.8
+New York,36,2011,2011,Male,M,Intentional self-harm by jumping from a high place,X80,15,1342613,Unreliable
+New York,36,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,136,1342613,10.1
+New York,36,2011,2011,Male,M,Assault by sharp object,X99,24,1342613,1.8
+New York,36,2011,2011,Male,M,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,16,1342613,Unreliable
+North Carolina,37,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,12,638343,Unreliable
+North Carolina,37,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,10,638343,Unreliable
+North Carolina,37,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,36,638343,5.6
+North Carolina,37,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,44,638343,6.9
+North Carolina,37,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,28,638343,4.4
+North Carolina,37,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,638343,Unreliable
+North Carolina,37,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,15,638343,Unreliable
+North Carolina,37,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,12,638343,Unreliable
+North Carolina,37,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,16,624292,Unreliable
+North Carolina,37,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,77,624292,12.3
+North Carolina,37,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,106,624292,17
+North Carolina,37,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,55,624292,8.8
+North Carolina,37,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,41,624292,6.6
+North Carolina,37,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,80,624292,12.8
+North Carolina,37,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,81,624292,13
+North Carolina,37,2011,2011,Male,M,Assault by sharp object,X99,14,624292,Unreliable
+North Dakota,38,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,10,50276,Unreliable
+North Dakota,38,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,10,50276,Unreliable
+Ohio,39,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,12,714948,Unreliable
+Ohio,39,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16,714948,Unreliable
+Ohio,39,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,45,714948,6.3
+Ohio,39,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,66,714948,9.2
+Ohio,39,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,714948,Unreliable
+Ohio,39,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,15,714948,Unreliable
+Ohio,39,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,19,714948,Unreliable
+Ohio,39,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,10,710898,Unreliable
+Ohio,39,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,14,710898,Unreliable
+Ohio,39,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,12,710898,Unreliable
+Ohio,39,2011,2011,Male,M,"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident",V27.4,10,710898,Unreliable
+Ohio,39,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,11,710898,Unreliable
+Ohio,39,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,32,710898,4.5
+Ohio,39,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,132,710898,18.6
+Ohio,39,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,136,710898,19.1
+Ohio,39,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,77,710898,10.8
+Ohio,39,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,75,710898,10.6
+Ohio,39,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,109,710898,15.3
+Oklahoma,40,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,19,252797,Unreliable
+Oklahoma,40,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11,252797,Unreliable
+Oklahoma,40,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,24,252797,9.5
+Oklahoma,40,2011,2011,Female,F,Intentional self-harm by handgun discharge,X72,10,252797,Unreliable
+Oklahoma,40,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,10,262906,Unreliable
+Oklahoma,40,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,12,262906,Unreliable
+Oklahoma,40,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,40,262906,15.2
+Oklahoma,40,2011,2011,Male,M,Drowning and submersion while in natural water,W69,10,262906,Unreliable
+Oklahoma,40,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,27,262906,10.3
+Oklahoma,40,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,36,262906,13.7
+Oklahoma,40,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,262906,9.9
+Oklahoma,40,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,43,262906,16.4
+Oklahoma,40,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,14,262906,Unreliable
+Oklahoma,40,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,25,262906,9.5
+Oregon,41,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,15,262344,Unreliable
+Oregon,41,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,48,268161,17.9
+Oregon,41,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,12,268161,Unreliable
+Oregon,41,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,268161,11.9
+Oregon,41,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,24,268161,8.9
+Oregon,41,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,268161,Unreliable
+Pennsylvania,42,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,14,770483,Unreliable
+Pennsylvania,42,2011,2011,Female,F,Hypertensive heart disease without (congestive) heart failure,I11.9,10,770483,Unreliable
+Pennsylvania,42,2011,2011,Female,F,Person injured in collision between other specified motor vehicles (traffic),V87.7,12,770483,Unreliable
+Pennsylvania,42,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,24,770483,3.1
+Pennsylvania,42,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,36,770483,4.7
+Pennsylvania,42,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,102,770483,13.2
+Pennsylvania,42,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,770483,Unreliable
+Pennsylvania,42,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,10,770483,Unreliable
+Pennsylvania,42,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,12,770483,Unreliable
+Pennsylvania,42,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,11,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,Atherosclerotic heart disease,I25.1,14,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,"Cardiomyopathy, unspecified",I42.9,10,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,21,776532,2.7
+Pennsylvania,42,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,10,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,26,776532,3.3
+Pennsylvania,42,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,70,776532,9
+Pennsylvania,42,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,106,776532,13.7
+Pennsylvania,42,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,262,776532,33.7
+Pennsylvania,42,2011,2011,Male,M,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,63,776532,8.1
+Pennsylvania,42,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,12,776532,Unreliable
+Pennsylvania,42,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,92,776532,11.8
+Pennsylvania,42,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,122,776532,15.7
+Pennsylvania,42,2011,2011,Male,M,Assault by sharp object,X99,15,776532,Unreliable
+Rhode Island,44,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,11,64596,Unreliable
+Rhode Island,44,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,10,64217,Unreliable
+South Carolina,45,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,16,302792,Unreliable
+South Carolina,45,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,11,302792,Unreliable
+South Carolina,45,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,23,302792,7.6
+South Carolina,45,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,10,302792,Unreliable
+South Carolina,45,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,13,298689,Unreliable
+South Carolina,45,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,10,298689,Unreliable
+South Carolina,45,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,44,298689,14.7
+South Carolina,45,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23,298689,7.7
+South Carolina,45,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,40,298689,13.4
+South Carolina,45,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,298689,Unreliable
+South Carolina,45,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,44,298689,14.7
+South Carolina,45,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,61,298689,20.4
+South Dakota,46,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,56173,Unreliable
+Tennessee,47,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,14,421957,Unreliable
+Tennessee,47,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,15,421957,Unreliable
+Tennessee,47,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,19,421957,Unreliable
+Tennessee,47,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,38,421957,9
+Tennessee,47,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,13,421957,Unreliable
+Tennessee,47,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,12,413413,Unreliable
+Tennessee,47,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,12,413413,Unreliable
+Tennessee,47,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,26,413413,6.3
+Tennessee,47,2011,2011,Male,M,"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident",V27.4,12,413413,Unreliable
+Tennessee,47,2011,2011,Male,M,"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,10,413413,Unreliable
+Tennessee,47,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,16,413413,Unreliable
+Tennessee,47,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,41,413413,9.9
+Tennessee,47,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,51,413413,12.3
+Tennessee,47,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,70,413413,16.9
+Tennessee,47,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,42,413413,10.2
+Tennessee,47,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,60,413413,14.5
+Tennessee,47,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,66,413413,16
+Texas,48,2011,2011,Female,F,"Septicaemia, unspecified",A41.9,16,1828846,Unreliable
+Texas,48,2011,2011,Female,F,Unspecified human immunodeficiency virus [HIV] disease,B24,11,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Colon, unspecified - Malignant neoplasms",C18.9,12,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Breast, unspecified - Malignant neoplasms",C50.9,29,1828846,1.6
+Texas,48,2011,2011,Female,F,"Cervix uteri, unspecified - Malignant neoplasms",C53.9,13,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Brain, unspecified - Malignant neoplasms",C71.9,12,1828846,Unreliable
+Texas,48,2011,2011,Female,F,Acute myeloid leukaemia - Malignant neoplasms,C92.0,10,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Unspecified diabetes mellitus, without complications",E14.9,12,1828846,Unreliable
+Texas,48,2011,2011,Female,F,Other obesity,E66.8,11,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Acute myocardial infarction, unspecified",I21.9,13,1828846,Unreliable
+Texas,48,2011,2011,Female,F,Pulmonary embolism without mention of acute cor pulmonale,I26.9,10,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Cardiomyopathy, unspecified",I42.9,14,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Pneumonia, unspecified",J18.9,10,1828846,Unreliable
+Texas,48,2011,2011,Female,F,Other ill-defined and unspecified causes of mortality,R99,18,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,17,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,17,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,35,1828846,1.9
+Texas,48,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,70,1828846,3.8
+Texas,48,2011,2011,Female,F,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,16,1828846,Unreliable
+Texas,48,2011,2011,Female,F,"Intentional self-harm by hanging, strangulation and suffocation",X70,30,1828846,1.6
+Texas,48,2011,2011,Female,F,Intentional self-harm by other and unspecified firearm discharge,X74,33,1828846,1.8
+Texas,48,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,30,1828846,1.6
+Texas,48,2011,2011,Male,M,"Septicaemia, unspecified",A41.9,17,1866019,Unreliable
+Texas,48,2011,2011,Male,M,HIV disease resulting in multiple infections,B20.7,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Connective and soft tissue, unspecified - Malignant neoplasms",C49.9,11,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Malignant neoplasm without specification of site,C80,11,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Unspecified diabetes mellitus, without complications",E14.9,11,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Other obesity,E66.8,20,1866019,1.1
+Texas,48,2011,2011,Male,M,Muscular dystrophy,G71.0,11,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Hypertensive heart disease without (congestive) heart failure,I11.9,17,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Acute myocardial infarction, unspecified",I21.9,32,1866019,1.7
+Texas,48,2011,2011,Male,M,"Atherosclerotic cardiovascular disease, so described",I25.0,24,1866019,1.3
+Texas,48,2011,2011,Male,M,"Cardiomyopathy, unspecified",I42.9,12,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Cardiomegaly,I51.7,21,1866019,1.1
+Texas,48,2011,2011,Male,M,"Pneumonia, unspecified",J18.9,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Pneumonitis due to food and vomit,J69.0,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Other and unspecified cirrhosis of liver,K74.6,12,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Other and unspecified convulsions,R56.8,15,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,37,1866019,2
+Texas,48,2011,2011,Male,M,"Pedestrian injured in collision with car, pick-up truck or van, traffic accident",V03.1,29,1866019,1.6
+Texas,48,2011,2011,Male,M,Pedestrian injured in traffic accident involving other and unspecified motor vehicles,V09.2,14,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident",V23.4,31,1866019,1.7
+Texas,48,2011,2011,Male,M,"Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident",V27.4,21,1866019,1.1
+Texas,48,2011,2011,Male,M,"Motorcycle rider injured in noncollision transport accident, driver injured in traffic accident",V28.4,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Motorcycle rider [any] injured in unspecified traffic accident,V29.9,11,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident",V43.5,34,1866019,1.8
+Texas,48,2011,2011,Male,M,"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident",V47.5,54,1866019,2.9
+Texas,48,2011,2011,Male,M,"Car occupant injured in noncollision transport accident, driver injured in traffic accident",V48.5,29,1866019,1.6
+Texas,48,2011,2011,Male,M,Car occupant [any] injured in unspecified traffic accident,V49.9,13,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident",V53.5,12,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident",V57.5,27,1866019,1.4
+Texas,48,2011,2011,Male,M,"Occupant of pick-up truck or van injured in noncollision transport accident, driver injured in traffic accident",V58.5,21,1866019,1.1
+Texas,48,2011,2011,Male,M,Person injured in collision between other specified motor vehicles (traffic),V87.7,26,1866019,1.4
+Texas,48,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,61,1866019,3.3
+Texas,48,2011,2011,Male,M,"Struck by thrown, projected or falling object",W20,12,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Discharge from other and unspecified firearms,W34,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Drowning and submersion while in natural water,W69,28,1866019,1.5
+Texas,48,2011,2011,Male,M,"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X41,17,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,159,1866019,8.5
+Texas,48,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,150,1866019,8
+Texas,48,2011,2011,Male,M,Accidental poisoning by and exposure to alcohol,X45,14,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,115,1866019,6.2
+Texas,48,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,13,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,30,1866019,1.6
+Texas,48,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,161,1866019,8.6
+Texas,48,2011,2011,Male,M,Assault by handgun discharge,X93,13,1866019,Unreliable
+Texas,48,2011,2011,Male,M,"Assault by rifle, shotgun and larger firearm discharge",X94,10,1866019,Unreliable
+Texas,48,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,185,1866019,9.9
+Texas,48,2011,2011,Male,M,Assault by sharp object,X99,37,1866019,2
+Texas,48,2011,2011,Male,M,Assault by unspecified means,Y09,19,1866019,Unreliable
+Utah,49,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20,218576,9.2
+Utah,49,2011,2011,Female,F,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,10,218576,Unreliable
+Utah,49,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,17,228030,Unreliable
+Utah,49,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,17,228030,Unreliable
+Utah,49,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,20,228030,8.8
+Utah,49,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,228030,Unreliable
+Utah,49,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,24,228030,10.5
+Utah,49,2011,2011,Male,M,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",Y12,10,228030,Unreliable
+Utah,49,2011,2011,Male,M,"Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",Y14,14,228030,Unreliable
+Virginia,51,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,22,557492,3.9
+Virginia,51,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,21,557492,3.8
+Virginia,51,2011,2011,Female,F,Intentional self-harm by handgun discharge,X72,11,557492,Unreliable
+Virginia,51,2011,2011,Female,F,Assault by other and unspecified firearm discharge,X95,10,557492,Unreliable
+Virginia,51,2011,2011,Male,M,"Septicaemia, unspecified",A41.9,11,562099,Unreliable
+Virginia,51,2011,2011,Male,M,Other ill-defined and unspecified causes of mortality,R99,10,562099,Unreliable
+Virginia,51,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,39,562099,6.9
+Virginia,51,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,67,562099,11.9
+Virginia,51,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,34,562099,6
+Virginia,51,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,47,562099,8.4
+Virginia,51,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,26,562099,4.6
+Virginia,51,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,23,562099,4.1
+Virginia,51,2011,2011,Male,M,Assault by handgun discharge,X93,17,562099,Unreliable
+Virginia,51,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,29,562099,5.2
+Washington,53,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,23,469613,4.9
+Washington,53,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26,469613,5.5
+Washington,53,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,51,492582,10.4
+Washington,53,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,29,492582,5.9
+Washington,53,2011,2011,Male,M,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,492582,Unreliable
+Washington,53,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,492582,5.9
+Washington,53,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,35,492582,7.1
+Washington,53,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12,492582,Unreliable
+Washington,53,2011,2011,Male,M,Intentional self-harm by other and unspecified firearm discharge,X74,19,492582,Unreliable
+Washington,53,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,17,492582,Unreliable
+Washington,53,2011,2011,Male,M,Legal intervention involving firearm discharge,Y35.0,10,492582,Unreliable
+West Virginia,54,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,38,108996,34.9
+West Virginia,54,2011,2011,Male,M,"Person injured in unspecified motor-vehicle accident, traffic",V89.2,11,111827,Unreliable
+West Virginia,54,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,30,111827,26.8
+West Virginia,54,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,70,111827,62.6
+West Virginia,54,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,111827,Unreliable
+Wisconsin,55,2011,2011,Female,F,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,14,359210,Unreliable
+Wisconsin,55,2011,2011,Female,F,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,26,359210,7.2
+Wisconsin,55,2011,2011,Male,M,"Car occupant injured in noncollision transport accident, driver injured in traffic accident",V48.5,11,372158,Unreliable
+Wisconsin,55,2011,2011,Male,M,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X42,53,372158,14.2
+Wisconsin,55,2011,2011,Male,M,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X44,39,372158,10.5
+Wisconsin,55,2011,2011,Male,M,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,372158,9.4
+Wisconsin,55,2011,2011,Male,M,Intentional self-harm by handgun discharge,X72,30,372158,8.1
+Wisconsin,55,2011,2011,Male,M,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,18,372158,Unreliable
+Wisconsin,55,2011,2011,Male,M,Assault by other and unspecified firearm discharge,X95,22,372158,5.9
