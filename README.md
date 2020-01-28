@@ -2,9 +2,10 @@
 We have examined global mortality and life expectancy data and global economic data to look for correlations among mortality rates, GDP, and life expectancy by country and by region.
 ![gif_image](Images/combined_images_gif.gif)
 ## Motivation and Hypotheses
-1. We expect that life expectancy is positively correlated with GDP. 
-$H_0 =$ There is no relationship between life expectancy and GDP.
-2. We expect that mortality rate is inversely related to GDP, i.e., countries with higher GDPs will tend to have lower mortality rates.$H_0 =$ There is no relationship between mortality rates and GDP
+1. We expect that life expectancy is positively correlated with GDP.
+H0 =  There is no relationship between life expectancy and GDP.
+2. We expect that mortality rate is inversely related to GDP, i.e., countries with higher GDPs will tend to have lower mortality rates.
+H0 There is no relationship between mortality rates and GDP
 ### Prerequisites
 You should have the following python packages installed in your Python environment to run the included jupyter notebooks:-
 ```
