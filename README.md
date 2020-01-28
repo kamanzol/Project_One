@@ -15,6 +15,8 @@ numpy
 matplotlib
 os
 gmaps
+scipy
+seaborn
 ```
 You will also require a Google Maps API key which can be replaced in ```config_template.py```. The file then should be renamed to ```config.py``` to work with the existing code.
 ## Data Sources
