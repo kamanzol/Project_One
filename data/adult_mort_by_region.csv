@@ -1,0 +1,121 @@
+,,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population)
+WHO region,Year, Both sexes, Male, Female
+Global,2016,142,171,112
+Global,2015,144,174,114
+Global,2014,146,176,115
+Global,2013,148,178,117
+Global,2012,150,180,119
+Global,2011,152,181,121
+Global,2010,156,185,125
+Global,2009,158,188,127
+Global,2008,163,193,131
+Global,2007,165,195,134
+Global,2006,169,199,137
+Global,2005,172,203,140
+Global,2004,175,206,143
+Global,2003,176,207,144
+Global,2002,177,208,145
+Global,2001,179,210,146
+Global,2000,181,214,147
+Africa,2016,277,306,248
+Africa,2015,283,312,255
+Africa,2014,291,320,262
+Africa,2013,297,326,269
+Africa,2012,305,332,279
+Africa,2011,314,338,291
+Africa,2010,324,346,302
+Africa,2009,336,358,314
+Africa,2008,349,370,328
+Africa,2007,362,383,343
+Africa,2006,375,396,356
+Africa,2005,387,407,368
+Africa,2004,396,417,376
+Africa,2003,400,422,379
+Africa,2002,400,423,377
+Africa,2001,397,422,374
+Africa,2000,397,424,371
+Americas,2016,126,162,89
+Americas,2015,126,162,89
+Americas,2014,125,161,88
+Americas,2013,125,162,89
+Americas,2012,127,164,89
+Americas,2011,128,165,90
+Americas,2010,135,175,95
+Americas,2009,131,169,92
+Americas,2008,131,169,92
+Americas,2007,131,169,92
+Americas,2006,133,172,94
+Americas,2005,134,173,95
+Americas,2004,136,175,96
+Americas,2003,139,179,98
+Americas,2002,141,182,100
+Americas,2001,143,184,101
+Americas,2000,143,185,101
+South-East Asia,2016,171,206,134
+South-East Asia,2015,174,208,136
+South-East Asia,2014,176,211,139
+South-East Asia,2013,179,213,142
+South-East Asia,2012,181,215,145
+South-East Asia,2011,184,216,148
+South-East Asia,2010,187,218,153
+South-East Asia,2009,190,221,158
+South-East Asia,2008,196,226,164
+South-East Asia,2007,196,224,165
+South-East Asia,2006,198,227,168
+South-East Asia,2005,201,229,171
+South-East Asia,2004,208,237,177
+South-East Asia,2003,206,234,176
+South-East Asia,2002,209,237,179
+South-East Asia,2001,211,239,181
+South-East Asia,2000,214,242,184
+Europe,2016,113,155,70
+Europe,2015,116,160,72
+Europe,2014,120,166,74
+Europe,2013,123,170,76
+Europe,2012,127,176,78
+Europe,2011,130,181,80
+Europe,2010,136,189,82
+Europe,2009,140,195,85
+Europe,2008,148,207,88
+Europe,2007,151,212,90
+Europe,2006,156,219,92
+Europe,2005,164,230,97
+Europe,2004,162,227,95
+Europe,2003,164,229,97
+Europe,2002,163,227,96
+Europe,2001,162,226,95
+Europe,2000,163,228,96
+Eastern Mediterranean,2016,150,172,125
+Eastern Mediterranean,2015,153,176,127
+Eastern Mediterranean,2014,156,180,130
+Eastern Mediterranean,2013,155,178,129
+Eastern Mediterranean,2012,156,178,131
+Eastern Mediterranean,2011,154,176,130
+Eastern Mediterranean,2010,158,179,134
+Eastern Mediterranean,2009,162,185,136
+Eastern Mediterranean,2008,165,190,139
+Eastern Mediterranean,2007,171,196,143
+Eastern Mediterranean,2006,175,200,147
+Eastern Mediterranean,2005,180,205,152
+Eastern Mediterranean,2004,178,202,151
+Eastern Mediterranean,2003,183,207,156
+Eastern Mediterranean,2002,179,201,155
+Eastern Mediterranean,2001,182,204,157
+Eastern Mediterranean,2000,183,205,159
+Western Pacific,2016,87,104,69
+Western Pacific,2015,88,105,70
+Western Pacific,2014,89,107,70
+Western Pacific,2013,90,108,71
+Western Pacific,2012,91,109,72
+Western Pacific,2011,93,111,74
+Western Pacific,2010,94,112,75
+Western Pacific,2009,95,114,76
+Western Pacific,2008,98,117,78
+Western Pacific,2007,98,117,78
+Western Pacific,2006,99,118,79
+Western Pacific,2005,101,119,81
+Western Pacific,2004,102,120,82
+Western Pacific,2003,103,122,84
+Western Pacific,2002,105,124,86
+Western Pacific,2001,109,128,88
+Western Pacific,2000,113,134,90
